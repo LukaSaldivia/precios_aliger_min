@@ -492,6 +492,118 @@
             "YERBA UNION X500": "2138.710"
         }
     },
-    "cambios": {},
-    "fecha": "21-02-2025 13:04:36"
+    "cambios": {
+        "Quesada": {
+            "BARRA QUESADA": "7692.640",
+            "CREMOSO QUESADA": "6074.610",
+            "CRIOLLO QUESADA": "9750.020",
+            "FONTINA QUESADA": "10182.630",
+            "GOUDA QUESADA": "8414.330",
+            "MUZZA CILINDRO QUESADA": "6351.190",
+            "PATEGRAS QUESADA": "9750.020",
+            "POR SALUT QUESADA": "6779.590",
+            "POR SALUT S/S QUESADA": "7052.730",
+            "REGGIANO QUESADA": "12440.350",
+            "ROMANITO QUESADA": "11745.470",
+            "SARDO QUESADA": "11312.850",
+            "CREMA QUESADA": "6455.860",
+            "PARMESANO QUESADA": "13291.520",
+            "MUZZA BARRA QUESADA": "7900.730",
+            "CREMOSO 1/2 QUESADA": "6181.770",
+            "BARRA SABORIZADA QUESADA": "10328.650",
+            "REGIANO MITADES": "12645.270",
+            "PARMESANO MITAD": "13341.610",
+            "SALSA CHEDDAR SACHET": "3904.300",
+            "SABORIZADO QUESADA X 700": "10247.120"
+        },
+        "Emezeta": {
+            "MILAN CORTO MZ": "7643.240",
+            "BARRIL MZ": "5882.730"
+        },
+        "Dulcor": {
+            "MERMELADA POTE DURAZNO": "970.470"
+        },
+        "Aliger": {
+            "PATEGRAS ALIGER": "8735.990",
+            "BARRA ALIGER": "6998.400"
+        },
+        "El Bocarte": {
+            "ANCHOAS 30 X 3": "17010.000",
+            "ANCHOAS X1.5KG": "38102.400"
+        },
+        "Aromas y Sabores": {
+            "OREGANO X25GR": "365.800",
+            "COCO RALLADO X1KG AYS": "7139.340",
+            "PIM BLANCA MOLIDA X 1 KG": "12824.490",
+            "CANELA MOLIDA X25": "509.650"
+        },
+        "Hellmans": {
+            "MAYONESA X2.9 HELLMANS": "13096.940"
+        },
+        "Paladini": {
+            "MORTADELA X4.5KG PALADINI": "6877.870",
+            "MORTADELA FAM. PALADINI": "2224.450",
+            "MORTADELA X 2.5KG PALADINI": "8395.560",
+            "VIENA X 6 FELA": "938.650",
+            "LEBERWURST X 250 GRS.": "1330.550",
+            "JAMON COCIDO PALADINI X 6 KG": "9349.200",
+            "MILAN TIVOLI": "7744.250",
+            "MILAN FELA": "9221.690",
+            "BONDIOLA PALADINI": "18333.850"
+        },
+        "Fepa": {
+            "MATAMBRE FEPA": "8699.020",
+            "POLLO FEPA": "8301.280",
+            "MATAMBRE PREMIUN EL CRIOLLITO": "13547.260",
+            "MATAMBRE EL CRIOLLITO": "11773.350"
+        },
+        "La Primera": {
+            "MANTECA X 100 PRIMER PREMIO": "1106.590",
+            "MANTECA X 200 PRIMER PREMIO": "2213.200",
+            "MANTECA X 2.5 KG.PRIMER PREMIO": "27050.760"
+        },
+        "Platamar": {
+            "ANCHOAS X90GR": "3650.400"
+        },
+        "Abuelo Marcelino": {
+            "CREMOSO ABUELO": "5574.100",
+            "SARDO ESTACIONADO ABUELO": "11053.800",
+            "GOUDA ABUELO": "9558.000"
+        },
+        "Campo Grande": {
+            "JAMON COCIDO CAMPO GRANDE": "5797.440",
+            "PALETA CAMPO GRANDE": "4743.370",
+            "PALETA P/EMP.CAMPO GRANDE": "2305.800"
+        },
+        "Marvavic": {
+            "VINAGRE BLANCO X 1 L.": "1064.620",
+            "VINAGRE DE ALCOHOL X 500": "725.990"
+        },
+        "La Quesera": {
+            "BARRA CHEDDAR LA QUESERA": "13799.370",
+            "GRUYERE CUÑA LA QUESERA": "21225.360"
+        },
+        "Buenas Sierras": {
+            "QUESO DE CERDO B.SIERRAS": "3240.010",
+            "PANCETA AHUMADA BUENAS SIERRAS": "8985.610"
+        },
+        "OTRAS COMPRAS": {
+            "BOLSAS 45 X 60": "468.820",
+            "BOLSAS 80 X 110": "2148.730",
+            "JUGO DE LIMON MINERVA X 250": "1116.560",
+            "NESQUIK X 180": "1953.400",
+            "REJILLA LINEA 10 BAR ESP": "648.520",
+            "CHOCOLINO X 180": "1635.390",
+            "BOLSAS 60X90": "1074.370",
+            "CILO ANILLO LIMON X400": "1222.020",
+            "CILO ANILLO VAINILLA X400": "1222.020",
+            "PALETA PALADINI X6KG": "9616.320",
+            "TRAPO GRIS B-AIRE/JULIET": "781.360",
+            "TOCADOR PLUSBELLE": "722.760",
+            "NATURA SALSA GOLF X125": "941.540",
+            "JUGO BAGGIO X250": "502.030",
+            "LENTEJAS LATA MAROLIO X300": "1458.430"
+        }
+    },
+    "fecha": "22-02-2025 16:03:43"
 }
