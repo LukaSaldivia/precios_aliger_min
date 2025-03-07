@@ -89,35 +89,35 @@
             "POSTRE DCE.LECHE C/CHOC.": "19678.440",
             "DULCE DE BATATA": "8313.430",
             "DULCE DE BATATA C/CHOC": "8313.430",
-            "DULCE DE MEMBRILLO": "9679.210"
+            "DULCE DE MEMBRILLO": "10163.170"
         },
         "San Cayetano": {
             "AJI EN VINAGRE X900GR": "10424.700",
-            "BIDON PICKLE X5KG": "16325.870",
-            "BIDON DESC X5KG 0": "28144.190",
-            "BIDON DESC X5KG 00": "34657.780",
-            "BIDON NEGRA DESC X5KG": "35080.700",
-            "BIDON NEGRA ROD X5KG": "32516.840",
-            "BIDON NEGRA X5K 0": "30261.820",
-            "BIDON RODAJA X5KG": "26087.060",
+            "BIDON PICKLE X4.6KG": "16325.870",
+            "BIDON DESC X4KG 0": "28144.190",
+            "BIDON DESC X4KG 00": "34657.780",
+            "BIDON NEGRA DESC X4KG": "35080.700",
+            "BIDON NEGRA ROD X4KG": "32516.840",
+            "BIDON NEGRA X4.6K 0": "30261.820",
+            "BIDON RODAJA X4KG": "26087.060",
             "BIDON ROTA X5KG": "20368.260",
-            "BIDON X5KG 0": "24473.270",
-            "BIDON X5KG 00": "33647.020",
-            "BIDON X5KG 000": "39484.840",
-            "BIDON X5KG 1": "22805.320",
-            "BIDON X5KG 2": "21137.370",
-            "BIDON X5KG 3": "19469.420",
-            "BIDON X5KG RELLENA": "47766.030",
+            "BIDON X4.6KG 0": "24473.270",
+            "BIDON X4.6KG 00": "33647.020",
+            "BIDON X4.6KG 000": "39484.840",
+            "BIDON X4.6KG 1": "22805.320",
+            "BIDON X4.6KG 2": "21137.370",
+            "BIDON X4.6KG 3": "19469.420",
+            "BIDON X4.6KG RELLENA": "47766.030",
             "FRASCO NEGRA DESC X2KG": "19268.200",
             "FRASCO NEGRA X2KG 0": "15157.380",
             "FRASCO NEGRA X2KG 00": "17790.280",
-            "FRASCO X2KG 0": "12045.330",
+            "FRASCO X1.8KG 0": "12045.330",
+            "FRASCO X1.8KG RODAJAS": "13508.710",
             "FRASCO X2KG 00": "16175.290",
             "FRASCO X2KG 000": "18658.840",
             "FRASCO X2KG DESC 0": "14937.210",
             "FRASCO X2KG DESC 00": "17732.360",
             "FRASCO X2KG RELLENA": "21170.160",
-            "FRASCO X2KG RODAJAS": "13508.710",
             "FRASCO NEGRA X1KG 0": "9067.320",
             "FRASCO X1KG 00": "9697.150"
         },
@@ -134,9 +134,9 @@
         },
         "Aliger": {
             "MANTECA PILON TONADITA": "0.000",
-            "PATEGRAS ALIGER": "8735.990",
+            "PATEGRAS ALIGER": "8985.590",
             "ROMANITO ALIGER": "8612.500",
-            "SARDO ALIGER": "7875.010",
+            "SARDO ALIGER": "8100.010",
             "BARRA ALIGER": "6998.400"
         },
         "El Artesano": {
@@ -155,6 +155,7 @@
         "Aromas y Sabores": {
             "ADOBO P/PIZZAS X 1 KG": "5119.700",
             "AJI MOLIDO X 1 KG": "5554.700",
+            "AJO GRANULADO X 25GR": "130.230",
             "AZUCAR IMPALPABLE X 200": "975.530",
             "AZUCAR IMPALPABLE X1KG AYS": "4082.430",
             "BICARBONATO X 50 GRS.": "352.330",
@@ -209,10 +210,10 @@
             "BONDIOLA PALADINI": "18333.850",
             "JAMON COCIDO PALADINI X 6 KG": "9349.200",
             "LEBERWURST X 250 GRS.": "1330.550",
-            "MILAN FELA": "9221.690",
+            "MILAN FELA": "9437.150",
             "MILAN TIVOLI": "7744.250",
             "VIENA X 6 FELA": "938.650",
-            "VIENA X 6 PALDINI": "1317.120",
+            "VIENA X 6 PALDINI": "1492.340",
             "MORTADELA FAM. PALADINI": "2224.450",
             "MORTADELA X 2.5KG PALADINI": "8395.560",
             "MORTADELA X4.5KG PALADINI": "6877.870"
@@ -273,7 +274,7 @@
             "PASAS DE UVA CON CHOCOLATE X 1": "1207.970"
         },
         "Cabrales": {
-            "CAFE EN SAQ. CABRALES X18": "3332.210",
+            "CAFE EN SAQ. CABRALES X18": "3408.740",
             "CAFE EN SAQ. LA PLANTA": "2462.740"
         },
         "La Primera": {
@@ -302,7 +303,7 @@
         },
         "Don Luis": {
             "LONGA CALABRESA DON LUIS": "9882.010",
-            "PECHERA DON LUIS": "9882.010",
+            "PECHERA DON LUIS": "10013.770",
             "SALAME COLORADO DON LUIS": "9420.840",
             "SALAME DON LUIS": "10277.280"
         },
@@ -342,6 +343,7 @@
             "LAMPARAS LED 60 W": "1137.560"
         },
         "Tresal": {
+            "SAL FINA TRESAL X 500": "477.420",
             "SAL GRUESA TRESAL X 1 KG": "747.440"
         },
         "La Quesera": {
@@ -382,6 +384,7 @@
             "CAFE INSTANTANEO LA VIRGINIA": "1983.530",
             "CAFE LA VIRGINIA SAQUITOS": "3633.320",
             "CAJA NAVIDEÑA Nº4": "44467.500",
+            "CALDO MAGGI WILDE X2": "390.690",
             "CALDO VERDURA KNORR X 2": "439.520",
             "CANTIMPALO PARA MAQUINA": "9757.140",
             "CAPUCHINO VIRGINIA SOBRE": "4145.510",
@@ -423,7 +426,7 @@
             "JABON SEISEME X 300": "1260.000",
             "JARDINERA X 350": "815.270",
             "JUGO BAGGIO X250": "502.030",
-            "JUGO DE LIMON MINERVA X 250": "1116.560",
+            "JUGO DE LIMON MINERVA X 250": "1117.340",
             "KETCHUP HELLMAN`S X 60 GRS.": "477.070",
             "KETCHUP HELLMAN´S X 250 GRS.": "1726.800",
             "LAVANDINA AYUDIN 1L": "1152.510",
@@ -463,12 +466,13 @@
             "ROLLO DE COCINA CARRITE 12X200": "1423.010",
             "SACHET DESC.X 100 CHIRO": "879.050",
             "SACHET RELLENA CHIRO": "1075.940",
-            "SAL FINA TRESAL X 500": "477.420",
             "SAL GRUESA 2 ANCLAS X 500": "1159.600",
             "SALSA GOLF NATURA X 250": "1676.020",
+            "SAVORA MONOPORCION": "13903.570",
             "SAVORA SACHET X60": "625.100",
             "SAVORA X 250 D/P": "1075.930",
             "TE COMUN LA VIRGINIA": "859.500",
+            "TE LA VIRGINIA BOLDO": "1836.190",
             "TE LA VIRGINIA MANZANILLA": "1250.220",
             "TE TAGARAGUI BOLDO": "1656.900",
             "TE TARAGUI COMUN": "732.840",
@@ -484,29 +488,56 @@
             "VIRULANA ROLLO": "936.460",
             "VIÑA DE BALBO TINTO": "2543.710",
             "YERBA AMANDA": "1781.850",
-            "YERBA CBSE TRADICIONAL X 500": "1804.530",
+            "YERBA CBSE LIMON X500": "1660.300",
+            "YERBA CBSE NARANJA X500": "1660.300",
+            "YERBA CBSE TRADICIONAL X500": "1660.300",
             "YERBA MATE ANDRESITO": "1653.320",
             "YERBA MATE TARAGUI X 500": "1907.670",
             "YERBA MAÑANITA": "1975.050",
-            "YERBA PLAYADITO X 500": "2221.980",
+            "YERBA PLAYADITO X 500": "2229.930",
             "YERBA TARAGÜI X 500 SIN PALO": "2962.520",
             "YERBA UNION X500": "2138.710"
         }
     },
     "cambios": {
         "Emezeta": {
-            "PALETA MINI S/GR.MZ": "5570.320"
+            "PERNIL EMEZETA": "6013.000",
+            "JAMON BOLON 3783": "5448.610",
+            "LOMO AHUMADO": "9213.580",
+            "PALETA CUADRADA MZ": "5617.330"
         },
-        "Alloa Vanguard": {
-            "QUESO AZUL 1/2 ALLOA": "11138.990"
+        "Dulcor": {
+            "DULCE DE MEMBRILLO": "10163.170"
+        },
+        "San Cayetano": {
+            "FRASCO X1.8KG 0": "12045.330",
+            "FRASCO X1.8KG RODAJAS": "13508.710",
+            "FRASCO X2KG RELLENA": "21170.160",
+            "BIDON X4.6KG 0": "24473.270",
+            "BIDON X4.6KG 00": "33647.020",
+            "BIDON X4.6KG 000": "39484.840",
+            "BIDON DESC X4KG 0": "28144.190",
+            "BIDON DESC X4KG 00": "34657.780",
+            "BIDON RODAJA X4KG": "26087.060",
+            "BIDON NEGRA X4.6K 0": "30261.820",
+            "BIDON NEGRA ROD X4KG": "32516.840",
+            "BIDON X4.6KG 1": "22805.320",
+            "BIDON X4.6KG 2": "21137.370",
+            "BIDON NEGRA DESC X4KG": "35080.700",
+            "BIDON X4.6KG RELLENA": "47766.030",
+            "BIDON X4.6KG 3": "19469.420",
+            "BIDON PICKLE X4.6KG": "16325.870"
         },
         "Aliger": {
-            "PATEGRAS ALIGER": "8735.990",
-            "BARRA ALIGER": "6998.400"
+            "SARDO ALIGER": "8100.010",
+            "PATEGRAS ALIGER": "8985.590"
         },
-        "Halcon": {
-            "GRASA VACUNA": "1357.120",
-            "GRASA DE CERDO": "1425.650"
+        "Aromas y Sabores": {
+            "AJO GRANULADO X 25GR": "130.230"
+        },
+        "Paladini": {
+            "VIENA X 6 PALDINI": "1492.340",
+            "MILAN FELA": "9437.150"
         },
         "Cris Jor": {
             "MANI CROCANTE CLASICO": "4194.420",
@@ -516,21 +547,25 @@
             "MANI CROCANTE SABOR QUESO": "4194.420",
             "MANI CROCANTE SABOR PROVENZAL": "4194.420"
         },
-        "Inalpa": {
-            "LENTEJAS INALPA X 300": "717.770",
-            "CHOCLO X 300": "1045.920"
+        "Cabrales": {
+            "CAFE EN SAQ. CABRALES X18": "3408.740"
         },
-        "La Quesera": {
-            "BARRA CHEDDAR LA QUESERA": "13799.370",
-            "GRUYERE CUÑA LA QUESERA": "21225.360"
+        "Don Luis": {
+            "PECHERA DON LUIS": "10013.770"
         },
-        "Buenas Sierras": {
-            "QUESO DE CERDO B.SIERRAS": "3240.010"
+        "Tresal": {
+            "SAL FINA TRESAL X 500": "477.420"
         },
         "OTRAS COMPRAS": {
-            "LECHE ENTERA VERONICA LV": "1852.890",
-            "TRAPO DE PISO": "1114.300"
+            "JUGO DE LIMON MINERVA X 250": "1117.340",
+            "YERBA CBSE TRADICIONAL X500": "1660.300",
+            "YERBA PLAYADITO X 500": "2229.930",
+            "YERBA CBSE LIMON X500": "1660.300",
+            "YERBA CBSE NARANJA X500": "1660.300",
+            "TE LA VIRGINIA BOLDO": "1836.190",
+            "CALDO MAGGI WILDE X2": "390.690",
+            "SAVORA MONOPORCION": "13903.570"
         }
     },
-    "fecha": "28-02-2025 12:10:47"
+    "fecha": "07-03-2025 11:57:15"
 }
