@@ -44,7 +44,7 @@
         "Emezeta": {
             "BARRIL MZ": "5882.730",
             "BONDIOLA AL VACIO 1/2 MZ": "14927.430",
-            "JAMON BOLON 3783": "5448.610",
+            "JAMON BOLON 3783": "5966.000",
             "LOMO AHUMADO": "9213.580",
             "MILAN CORTO MZ": "7643.240",
             "MILANCITO EMEZETA": "8964.270",
@@ -69,6 +69,7 @@
         "Productos W": {
             "BONDIOLA W": "13616.090",
             "CRUDO W": "13350.430",
+            "PALETA DE CERDO W": "3557.520",
             "PALETA P/EMP.W": "2261.640"
         },
         "Alloa Vanguard": {
@@ -85,7 +86,13 @@
             "BATATA LATA VLLA.": "10797.990",
             "HILERET CLASICO X 500": "8628.760",
             "MEMBRILLO LATA": "14102.540",
-            "MERMELADA CORMILLOT DURAZNO": "1443.290",
+            "MERMELADA CORMILLOT DURAZNO": "1484.530",
+            "MERMELADA DULCOR FRASCO DAMASC": "1282.360",
+            "MERMELADA DULCOR FRASCO DURAZN": "1282.360",
+            "MERMELADA DULCOR FRASCO FRUTIL": "1640.190",
+            "MERMELADA DULCOR FRASCO HIGO": "1640.190",
+            "MERMELADA DULCOR FRASCO NARANJ": "1282.360",
+            "MERMELADA FRASCO DULCOR CIRUEL": "1282.360",
             "MERMELADA POTE DURAZNO": "970.470",
             "POSTRE DCE.LECHE C/CHOC.": "19678.440",
             "DULCE DE BATATA": "8313.430",
@@ -137,7 +144,7 @@
             "PATEGRAS ALIGER": "8985.590",
             "ROMANITO ALIGER": "8612.500",
             "SARDO ALIGER": "8100.010",
-            "BARRA ALIGER": "6998.400"
+            "BARRA ALIGER": "7127.990"
         },
         "El Artesano": {
             "CRUDO EL ARTESANO": "17044.470"
@@ -225,7 +232,7 @@
         },
         "Punta del agua": {
             "BARRA PUNTA DEL AGUA": "7568.390",
-            "CREMOSO PUNTA DEL AGUA": "7091.410"
+            "CREMOSO PUNTA DEL AGUA": "0.000"
         },
         "Cris Jor": {
             "MANI CROCANTE CLASICO": "4194.420",
@@ -243,7 +250,7 @@
             "POLLO FEPA": "8301.280"
         },
         "Chiro": {
-            "ACEITE DE OLIVA X 500": "8851.840",
+            "ACEITE DE OLIVA X 500": "9841.320",
             "RELLENA GOURMET X 200": "4670.270",
             "SACHET DESC.X 100 CHIRO": "879.050",
             "SACHET RELLENA CHIRO": "1075.940",
@@ -298,7 +305,7 @@
         "Il Molise": {
             "BASTON IL MOLISE": "9429.430",
             "PALETA IL MOLISE": "4761.580",
-            "PALETA SANDW.IL MOLISE": "2926.280",
+            "PALETA SANDW.IL MOLISE": "0.000",
             "PALETA TERMOLI": "3920.980"
         },
         "Abuelo Marcelino": {
@@ -309,8 +316,8 @@
         "Don Luis": {
             "LONGA CALABRESA DON LUIS": "10672.560",
             "PECHERA DON LUIS": "10672.560",
-            "SALAME COLORADO DON LUIS": "11067.830",
-            "SALAME DON LUIS": "10277.280"
+            "SALAME COLORADO DON LUIS": "0.000",
+            "SALAME DON LUIS": "11067.830"
         },
         "Alco": {
             "DURAZNO X 820": "1425.610",
@@ -381,7 +388,7 @@
             "LECHE ENTERA VERONICA LV": "1852.890"
         },
         "OTRAS COMPRAS": {
-            "ACEITE MOLINO CAÑUELAS": "2176.670",
+            "ACEITE MOLINO CAÑUELAS": "2693.500",
             "ACEITE MOLTO GIRASOL X900": "2188.410",
             "ACEITE NATURA X900": "2103.650",
             "ALA DETERGENTE": "1953.400",
@@ -390,17 +397,20 @@
             "ARROZ DON MARCOS X500": "1016.730",
             "ARROZ X 500": "1092.130",
             "ARROZ X1KG": "2032.350",
-            "AZUCAR COMUN X 1 KG": "867.750",
-            "BOLSAS 45 X 60": "468.820",
-            "BOLSAS 60X90": "1074.370",
-            "BOLSAS 80 X 110": "2148.730",
+            "AZUCAR LA DULCITA X 1 KG": "867.560",
+            "AZUCAR LA TIKAY X1": "883.510",
+            "BOLSAS 45 X 60": "1883.110",
+            "BOLSAS 50X70": "2152.420",
+            "BOLSAS 60X90": "2648.380",
+            "BOLSAS 80 X 110": "4139.350",
+            "CABO DE MADERA CON ROSCA": "1211.100",
             "CAFE INSTANTANEO LA VIRGINIA": "1983.530",
             "CAFE LA VIRGINIA SAQUITOS": "3633.320",
             "CAJA NAVIDEÑA Nº4": "44467.500",
             "CALDO MAGGI WILDE X2": "390.690",
             "CALDO VERDURA KNORR X 2": "482.490",
             "CANTIMPALO PARA MAQUINA": "9757.140",
-            "CAPUCHINO VIRGINIA SOBRE": "4145.510",
+            "CAPUCHINO VIRGINIA SOBRE": "4248.630",
             "CHOCOLINO X 180": "1635.390",
             "CILO ANILLO LIMON X400": "1222.020",
             "CILO ANILLO VAINILLA X400": "1222.020",
@@ -411,7 +421,7 @@
             "DON SATUR BIZC. NEGRITOS": "748.510",
             "DURAZNO ELISA EN MIT X800": "1644.280",
             "ESCOBILLON MAPUCHE 4H EC": "2139.680",
-            "ESPONJA ACERO": "597.170",
+            "ESPONJA ACERO SED METAL": "726.060",
             "ESPONJA AMARILLA": "1036.100",
             "ESPONJA DORADA": "1128.400",
             "EXTRACTO VAINILLA X 28 CC": "600.920",
@@ -429,9 +439,9 @@
             "GALLETITAS LA PROVIDENCIA X 3": "1061.980",
             "HARINA 000 CAÑUELA X1KG": "701.580",
             "HARINA COMUN 000 PUREZA": "883.050",
-            "HARINA COMUN 0000 PUREZA": "841.080",
+            "HARINA COMUN 0000 PUREZA": "1102.240",
             "HARINA COMUN 0000 U/REF PUREZA": "1074.600",
-            "HARINA LEUDANTE PUREZA": "1386.910",
+            "HARINA LEUDANTE PUREZA": "1439.430",
             "HARINA P/PIZZA PUREZA": "1448.380",
             "INSECTICIDA FUYI": "4131.420",
             "JABON EN POLVO ALA ECOLAVADO X": "1090.090",
@@ -447,7 +457,8 @@
             "LENTEJAS LATA MAROLIO X300": "1458.430",
             "LEVADURA LEVEX 2 X 25": "937.630",
             "LIMON MINERVA X500": "1338.080",
-            "LIMP LIQ HEROE X900": "781.360",
+            "LIMP LIQ HEROE X900 BRISA MAR": "781.360",
+            "LIMP LIQ HEROO X900 PINO SILV": "781.360",
             "LIMPIADOR POETT": "1437.700",
             "MAIZ PISINGALLO": "1138.850",
             "MARGARINA MASA PILON": "2699.490",
@@ -455,27 +466,27 @@
             "MAYONESA MENOYO 2.700CC": "6940.110",
             "MAYONESA MENOYO X 100": "375.710",
             "MAYONESA MENOYO X 250": "591.840",
-            "MAYONESA NATURA X 125": "621.420",
-            "MAYONESA NATURA X 250": "1050.150",
-            "MERMELADA CIRUELA": "1226.030",
+            "MAYONESA NATURA X 125": "639.470",
+            "MAYONESA NATURA X 250": "1275.970",
+            "MERMELADA CIRUELA": "1261.060",
             "MORRON X 185": "2670.940",
             "NATURA SALSA GOLF X125": "941.540",
             "NESQUIK X 180": "1953.400",
             "OREGANO ALICANTE X 25": "990.370",
-            "PALILLOS IMPACTO X 16": "600.920",
+            "PALILLOS": "600.920",
             "PATE ECONOMICO": "677.830",
             "PIMENTON ALICANTE X 25": "641.950",
             "POROTOS MOLTO X 300": "908.780",
             "PURE DE PAPAS MAGGI X 125": "1918.400",
             "QUESO DE CERDO EL TRIUNFO": "7491.880",
-            "RALLADO PAULINA X 40 GRS.": "1638.010",
-            "REJILLA LINEA 10 BAR ESP": "648.520",
+            "RALLADO PAULINA X 40 GRS.": "1653.620",
             "REJILLA PARA COCHE": "753.150",
+            "REJILLA SUIZA 34X38": "918.890",
             "ROLLO DE COCINA CARRITE 12X200": "1423.010",
             "SAL GRUESA 2 ANCLAS X 500": "1159.600",
             "SALSA GOLF NATURA X 250": "1676.020",
             "SAVORA MONOPORCION": "13903.570",
-            "SAVORA SACHET X60": "625.100",
+            "SAVORA SACHET X60": "642.670",
             "SAVORA X 250 D/P": "1075.930",
             "TE COMUN LA VIRGINIA": "859.500",
             "TE LA VIRGINIA BOLDO": "1836.190",
@@ -491,7 +502,7 @@
             "TRAPO GRIS B-AIRE/JULIET": "781.360",
             "VAINILLA POZO": "746.950",
             "VINAGRE MANZANA X 500ML": "1304.390",
-            "VIRULANA ROLLO": "936.460",
+            "VIRULANA ROLLO SED METAL": "1529.950",
             "VIÑA DE BALBO TINTO": "2543.710",
             "YERBA AMANDA": "1781.850",
             "YERBA CBSE LIMON X500": "1660.300",
@@ -506,34 +517,44 @@
         }
     },
     "cambios": {
-        "Peipo": {
-            "MANI JAPONES X 700 PEIPO": "3400.100"
-        },
         "Quesada": {
             "MANTECA X 2.5 KG": "0.000"
         },
         "Emezeta": {
+            "JAMON BOLON 3783": "5966.000",
             "BONDIOLA AL VACIO 1/2 MZ": "14927.430"
         },
+        "Productos W": {
+            "PALETA DE CERDO W": "3557.520"
+        },
         "Dulcor": {
-            "DULCE DE MEMBRILLO": "10163.170"
+            "MERMELADA CORMILLOT DURAZNO": "1484.530",
+            "MERMELADA DULCOR FRASCO FRUTIL": "1640.190",
+            "MERMELADA DULCOR FRASCO HIGO": "1640.190",
+            "MERMELADA DULCOR FRASCO DURAZN": "1282.360",
+            "MERMELADA FRASCO DULCOR CIRUEL": "1282.360",
+            "MERMELADA DULCOR FRASCO NARANJ": "1282.360",
+            "MERMELADA DULCOR FRASCO DAMASC": "1282.360"
+        },
+        "Aliger": {
+            "BARRA ALIGER": "7127.990"
         },
         "Hellmans": {
             "KETCHUP HELLMAN`S X 60 GRS.": "704.030"
         },
         "Paladini": {
-            "MORTADELA X4.5KG PALADINI": "7103.380",
             "VIENA X 6 FELA": "1014.860",
             "PALETA PALADINI X6KG": "9616.320",
             "VIENA X 6 PALDINI": "1540.560",
             "MILAN TIVOLI": "7941.240"
         },
         "Punta del agua": {
-            "CREMOSO PUNTA DEL AGUA": "7091.410"
+            "CREMOSO PUNTA DEL AGUA": "0.000"
         },
         "Chiro": {
             "SACHET DESC.X 100 CHIRO": "879.050",
-            "SACHET RELLENA CHIRO": "1075.940"
+            "SACHET RELLENA CHIRO": "1075.940",
+            "ACEITE DE OLIVA X 500": "9841.320"
         },
         "Finca de Santiago": {
             "LATA DE TOMATE X8KG": "10075.550"
@@ -543,10 +564,12 @@
             "MANTECA X 200 PRIMER PREMIO": "2273.830",
             "MANTECA X 2.5 KG.PRIMER PREMIO": "28177.880"
         },
+        "Il Molise": {
+            "PALETA SANDW.IL MOLISE": "0.000"
+        },
         "Don Luis": {
-            "SALAME COLORADO DON LUIS": "11067.830",
-            "PECHERA DON LUIS": "10672.560",
-            "LONGA CALABRESA DON LUIS": "10672.560"
+            "SALAME COLORADO DON LUIS": "0.000",
+            "SALAME DON LUIS": "11067.830"
         },
         "Limpialin": {
             "LAVANDINA LIMPIALIN X 1 LT.": "717.880",
@@ -563,10 +586,35 @@
             "LECHE DESCREMADA VERONICA LV": "1722.960"
         },
         "OTRAS COMPRAS": {
-            "CALDO VERDURA KNORR X 2": "482.490",
+            "PALILLOS": "600.920",
+            "VIRULANA ROLLO SED METAL": "1529.950",
+            "BOLSAS 45 X 60": "1883.110",
+            "BOLSAS 80 X 110": "4139.350",
+            "AZUCAR LA DULCITA X 1 KG": "867.560",
+            "SAVORA SACHET X60": "642.670",
+            "CAPUCHINO VIRGINIA SOBRE": "4248.630",
+            "RALLADO PAULINA X 40 GRS.": "1653.620",
+            "YERBA MATE ANDRESITO": "1653.320",
             "JABON SEISEME X 300": "1462.700",
-            "CILO PEPAS X400": "1215.630"
+            "HARINA COMUN 0000 PUREZA": "1102.240",
+            "REJILLA SUIZA 34X38": "918.890",
+            "MAYONESA NATURA X 250": "1275.970",
+            "FIDEO MOSTACHOL SOL PAMPEANO": "838.250",
+            "YERBA PLAYADITO X 500": "2229.930",
+            "HARINA LEUDANTE PUREZA": "1439.430",
+            "BOLSAS 60X90": "2648.380",
+            "FIDEO TALLARIN SOL PAMPEANO X": "838.250",
+            "LIMP LIQ HEROO X900 PINO SILV": "781.360",
+            "FIDEO TIRABUZON SOL PAMPEANO X": "838.250",
+            "MERMELADA CIRUELA": "1261.060",
+            "MAYONESA NATURA X 125": "639.470",
+            "ESPONJA ACERO SED METAL": "726.060",
+            "ACEITE MOLINO CAÑUELAS": "2693.500",
+            "BOLSAS 50X70": "2152.420",
+            "AZUCAR LA TIKAY X1": "883.510",
+            "LIMP LIQ HEROE X900 BRISA MAR": "781.360",
+            "CABO DE MADERA CON ROSCA": "1211.100"
         }
     },
-    "fecha": "17-03-2025 13:57:02"
+    "fecha": "21-03-2025 12:27:52"
 }
