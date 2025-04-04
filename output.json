@@ -28,8 +28,8 @@
             "REGGIANO QUESADA": "13183.910",
             "ROMANITO QUESADA": "12391.730",
             "SARDO QUESADA": "11935.650",
-            "BARRA QUESADA": "8431.910",
-            "CREMOSO QUESADA": "6546.980",
+            "BARRA QUESADA": "8356.770",
+            "CREMOSO QUESADA": "6488.640",
             "CRIOLLO QUESADA": "10289.540",
             "FONTINA QUESADA": "10745.890",
             "GOUDA QUESADA": "8877.030",
@@ -44,7 +44,7 @@
             "BONDIOLA AL VACIO 1/2 MZ": "14927.430",
             "JAMON BOLON 3783": "5966.000",
             "LOMO AHUMADO": "9213.580",
-            "MILAN CORTO MZ": "8025.410",
+            "MILAN CORTO MZ": "8256.880",
             "MILANCITO EMEZETA": "9412.480",
             "PALETA CUADRADA MZ": "5617.330",
             "PALETA MINI S/GR.MZ": "5570.320",
@@ -76,11 +76,11 @@
         },
         "Spalen": {},
         "Dulcor": {
-            "BATATA C/GUINDAS": "17344.890",
-            "BATATA LATA C/CHOC.": "10797.620",
-            "BATATA LATA VLLA.": "10797.990",
+            "BATATA C/GUINDAS": "18071.600",
+            "BATATA LATA C/CHOC.": "11337.070",
+            "BATATA LATA VLLA.": "11337.070",
             "HILERET CLASICO X 500": "10576.760",
-            "MEMBRILLO LATA": "14102.540",
+            "MEMBRILLO LATA": "13836.170",
             "MERMELADA CORMILLOT DURAZNO": "1484.530",
             "MERMELADA DULCOR FRASCO DAMASC": "1282.360",
             "MERMELADA DULCOR FRASCO DURAZN": "1282.360",
@@ -89,10 +89,10 @@
             "MERMELADA DULCOR FRASCO NARANJ": "1282.360",
             "MERMELADA FRASCO DULCOR CIRUEL": "1282.360",
             "MERMELADA POTE DURAZNO": "970.470",
-            "POSTRE DCE.LECHE C/CHOC.": "19678.440",
-            "DULCE DE BATATA": "8313.430",
-            "DULCE DE BATATA C/CHOC": "8313.430",
-            "DULCE DE MEMBRILLO": "10163.170"
+            "POSTRE DCE.LECHE C/CHOC.": "26353.300",
+            "DULCE DE BATATA": "8728.800",
+            "DULCE DE BATATA C/CHOC": "8728.800",
+            "DULCE DE MEMBRILLO": "10671.640"
         },
         "San Cayetano": {
             "AJI EN VINAGRE X900GR": "10424.700",
@@ -136,7 +136,7 @@
             "PATEGRAS ALIGER": "8985.590",
             "ROMANITO ALIGER": "0.000",
             "SARDO ALIGER": "8815.640",
-            "BARRA ALIGER": "7127.990"
+            "BARRA ALIGER": "7387.140"
         },
         "El Artesano": {
             "CRUDO EL ARTESANO": "17044.470"
@@ -232,9 +232,9 @@
         },
         "Fepa": {
             "MATAMBRE EL CRIOLLITO": "11773.350",
-            "MATAMBRE FEPA": "8699.020",
+            "MATAMBRE FEPA": "9135.250",
             "MATAMBRE PREMIUN EL CRIOLLITO": "13547.260",
-            "POLLO FEPA": "8301.280"
+            "POLLO FEPA": "8724.690"
         },
         "Chiro": {
             "ACEITE DE OLIVA X 500": "9841.320",
@@ -260,13 +260,16 @@
         },
         "Amanecer": {
             "ALMENDRAS CON CHOCOLATE X 100": "2400.130",
+            "CEREAL C/CHOC.X 700": "10301.530",
             "CEREAL CON CHOCOLATE X 80 GRS.": "1143.460",
             "CONFITES DE MANI X 150 GRS.": "894.110",
-            "CONITOS CON QUESO X 800": "8039.990",
-            "COPETIN X 300": "1500.210",
+            "CONITOS CON QUESO X 800": "8746.160",
+            "COPETIN X 300": "1530.200",
             "GARRAPIÑADA C/CH.X 80 GRS.": "747.280",
             "GARRAPIÑADA DE ALMENDRA X 80 G": "1725.440",
             "GARRAPIÑADA DE MANI X 80 GRS.": "472.780",
+            "GARRAPIÑADA X 1 KG.": "6364.500",
+            "MANI C/CHOC.X 1 KG.": "11527.040",
             "MANI CON CHOCOLATE X 80 GRS.": "802.880",
             "PASAS DE UVA CON CHOCOLATE X 1": "1207.970"
         },
@@ -365,7 +368,7 @@
         },
         "Veronica": {
             "LECHE DESCREMADA VERONICA LV": "1722.960",
-            "LECHE ENTERA VERONICA LV": "1852.890"
+            "LECHE ENTERA VERONICA LV": "1882.660"
         },
         "OTRAS COMPRAS": {
             "ACEITE MOLINO CAÑUELAS": "2693.500",
@@ -388,7 +391,7 @@
             "CAFE LA VIRGINIA SAQUITOS": "3633.320",
             "CAJA NAVIDEÑA Nº4": "44467.500",
             "CALDO MAGGI WILDE X2": "390.690",
-            "CALDO VERDURA KNORR X 2": "482.490",
+            "CALDO VERDURA KNORR X 2": "507.890",
             "CANTIMPALO PARA MAQUINA": "9757.140",
             "CAPUCHINO VIRGINIA SOBRE": "4248.630",
             "CHOCOLINO X 180": "1635.390",
@@ -465,9 +468,10 @@
             "ROLLO DE COCINA CARRITE 12X200": "1423.010",
             "SAL GRUESA 2 ANCLAS X 500": "1159.600",
             "SALSA GOLF NATURA X 250": "1676.020",
-            "SAVORA MONOPORCION": "13903.570",
+            "SAVORA MONOPORCION": "19556.250",
             "SAVORA SACHET X60": "642.670",
             "SAVORA X 250 D/P": "1075.930",
+            "SECADOR DE GOMA X40": "1293.150",
             "TE COMUN LA VIRGINIA": "859.500",
             "TE LA VIRGINIA BOLDO": "1836.190",
             "TE LA VIRGINIA MANZANILLA": "1250.220",
@@ -487,7 +491,7 @@
             "YERBA AMANDA": "1781.850",
             "YERBA CBSE LIMON X500": "1660.300",
             "YERBA CBSE NARANJA X500": "1660.300",
-            "YERBA CBSE TRADICIONAL X500": "1660.300",
+            "YERBA CBSE TRADICIONAL X500": "2027.250",
             "YERBA MATE ANDRESITO": "1653.320",
             "YERBA MATE TARAGUI X 500": "1907.670",
             "YERBA MAÑANITA": "1975.050",
@@ -498,8 +502,8 @@
     },
     "cambios": {
         "Quesada": {
-            "BARRA QUESADA": "8431.910",
-            "CREMOSO QUESADA": "6546.980",
+            "BARRA QUESADA": "8356.770",
+            "CREMOSO QUESADA": "6488.640",
             "CRIOLLO QUESADA": "10289.540",
             "FONTINA QUESADA": "10745.890",
             "GOUDA QUESADA": "8877.030",
@@ -520,27 +524,28 @@
             "SABORIZADO QUESADA X 700": "10862.740"
         },
         "Emezeta": {
-            "FIAMBRE DE JAMON COCIDO GRANDE": "6013.000",
             "MILAN EMEZETA": "8271.730",
             "BASTON EMEZETA": "10239.950",
             "SALCHICHON C/JAMON EMEZETA": "3918.590",
             "SALCHICHON PRIMAVERA EMEZETA": "3918.590",
             "MORTADELA EMEZETA": "4377.410",
             "MILANCITO EMEZETA": "9412.480",
-            "MILAN CORTO MZ": "8025.410",
-            "BONDIOLA AL VACIO 1/2 MZ": "14927.430"
+            "MILAN CORTO MZ": "8256.880"
         },
         "Dulcor": {
-            "HILERET CLASICO X 500": "10576.760"
+            "DULCE DE MEMBRILLO": "10671.640",
+            "DULCE DE BATATA": "8728.800",
+            "DULCE DE BATATA C/CHOC": "8728.800",
+            "POSTRE DCE.LECHE C/CHOC.": "26353.300",
+            "BATATA LATA VLLA.": "11337.070",
+            "BATATA LATA C/CHOC.": "11337.070",
+            "MEMBRILLO LATA": "13836.170",
+            "BATATA C/GUINDAS": "18071.600"
         },
         "Aliger": {
             "SARDO ALIGER": "8815.640",
             "ROMANITO ALIGER": "0.000",
-            "BARRA ALIGER": "7127.990"
-        },
-        "Halcon": {
-            "GRASA VACUNA": "1407.840",
-            "GRASA DE CERDO": "1438.850"
+            "BARRA ALIGER": "7387.140"
         },
         "Calchaqui": {
             "MORTADELA BOCHA CALCHAQUI": "7153.900",
@@ -548,20 +553,26 @@
             "PANCETA AHUMADA CALCHAQUI": "15814.060",
             "MORTADELA C/PIST CALCHAQUI": "10460.640"
         },
-        "Paladini": {
-            "MILAN TIVOLI": "7941.240"
+        "Fepa": {
+            "MATAMBRE FEPA": "9135.250",
+            "POLLO FEPA": "8724.690"
         },
-        "Don Luis": {
-            "SALAME COLORADO DON LUIS": "0.000",
-            "SALAME DON LUIS": "11067.830"
+        "Amanecer": {
+            "COPETIN X 300": "1530.200",
+            "CONITOS CON QUESO X 800": "8746.160",
+            "CEREAL C/CHOC.X 700": "10301.530",
+            "GARRAPIÑADA X 1 KG.": "6364.500",
+            "MANI C/CHOC.X 1 KG.": "11527.040"
         },
-        "Mix Dietetica": {
-            "MIX CRIOLLO X 10": "6955.210"
+        "Veronica": {
+            "LECHE ENTERA VERONICA LV": "1882.660"
         },
         "OTRAS COMPRAS": {
-            "ROLLO DE COCINA CARRITE 12X200": "1423.010",
-            "LIMON MINERVA X500": "1875.260"
+            "CALDO VERDURA KNORR X 2": "507.890",
+            "YERBA CBSE TRADICIONAL X500": "2027.250",
+            "SAVORA MONOPORCION": "19556.250",
+            "SECADOR DE GOMA X40": "1293.150"
         }
     },
-    "fecha": "31-03-2025 11:05:16"
+    "fecha": "04-04-2025 13:33:56"
 }
