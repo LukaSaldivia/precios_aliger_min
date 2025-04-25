@@ -95,8 +95,8 @@
             "MERMELADA FRASCO DULCOR CIRUEL": "1346.490",
             "MERMELADA POTE DURAZNO": "1019.060",
             "POSTRE DCE.LECHE C/CHOC.": "26353.300",
-            "DULCE DE BATATA": "8728.800",
-            "DULCE DE BATATA C/CHOC": "8728.800",
+            "DULCE DE BATATA": "8729.110",
+            "DULCE DE BATATA C/CHOC": "8729.110",
             "DULCE DE MEMBRILLO": "10671.640"
         },
         "San Cayetano": {
@@ -132,16 +132,15 @@
         "Gallardo": {},
         "Rodriguez Acacio": {
             "BOTELLA TOMATE ROD AC": "1890.000",
-            "CIRUELAS SECAS X 250 C/C": "765.290",
-            "CIRUELAS X 250 D'AGEN S/C": "1241.180",
-            "PASAS DE UVA S/SEMILLA X 100": "668.250",
-            "PASAS SIN SEMILLA X 10 KG": "3794.290"
+            "CIRUELAS SECAS X 250 C/C": "1106.120",
+            "CIRUELAS X 250 D'AGEN S/C": "1800.670",
+            "PASAS DE UVA S/SEMILLA X 100": "742.520",
+            "PASAS SIN SEMILLA X 10 KG": "5144.810"
         },
         "Aliger": {
-            "PATEGRAS ALIGER": "8985.590",
             "ROMANITO ALIGER": "0.000",
             "SARDO ALIGER": "9343.750",
-            "BARRA ALIGER": "7387.200"
+            "BARRA ALIGER": "7911.210"
         },
         "El Artesano": {
             "CRUDO EL ARTESANO": "17044.470"
@@ -196,7 +195,7 @@
         "Calchaqui": {
             "MORTADELA PICCOLA CALCHAQUI": "2084.930",
             "BONDIOLA CALCHAQUI": "21097.020",
-            "MORTADELA BOCHA CALCHAQUI": "7153.900",
+            "MORTADELA BOCHA CALCHAQUI": "7154.390",
             "MORTADELA C/PIST CALCHAQUI": "10460.640",
             "MORTADELA CAÑON CALCHAQUI": "6126.150",
             "MORTADELA GIG. CALCHAQUI": "7750.030",
@@ -249,7 +248,7 @@
             "SACHET X 100 CHIRO": "681.010"
         },
         "Lo tauro": {
-            "SACHET X 100 LO TAURO": "0.000",
+            "SACHET X 100 LO TAURO": "603.620",
             "SACHET X100 DESC LO TAURO": "763.260"
         },
         "La Juanita": {
@@ -281,7 +280,7 @@
         },
         "Cabrales": {
             "CAFE EN SAQ. CABRALES X18": "3408.740",
-            "CAFE EN SAQ. LA PLANTA": "2462.740"
+            "CAFE EN SAQ. LA PLANTA": "3920.330"
         },
         "La Primera": {
             "MANTECA X 100 PRIMER PREMIO": "1212.710",
@@ -363,10 +362,10 @@
             "RALLADO X 40 GRS.LA QUESERA": "650.960"
         },
         "Mix Dietetica": {
-            "MIX CRIOLLO X 10": "6955.210",
-            "MIX EUROPEO X 10": "9111.310",
-            "MIX FRUTOS SECOS X 10": "17909.650",
-            "MIX FUERTE X 10": "7998.480",
+            "MIX CRIOLLO X 10": "8520.120",
+            "MIX EUROPEO X 10": "11302.200",
+            "MIX FRUTOS SECOS X 10": "20865.620",
+            "MIX FUERTE X 10": "9041.760",
             "MIX P/ENSALADA X 1": "5868.450"
         },
         "Buenas Sierras": {
@@ -516,101 +515,39 @@
         }
     },
     "cambios": {
-        "Quesada": {
-            "MANTECA X 2.5 KG CLUCELAT": "24322.920"
-        },
-        "Emezeta": {
-            "CRUDO EMEZETA": "19444.860",
-            "JAMON NATIVO EMEZETA": "9208.310",
-            "FIAMBRE DE JAMON COCIDO GRANDE": "6193.370",
-            "PALETA MINI EMEZETA": "5737.420",
-            "LOMO CANADIENSE EMEZETA": "11089.360",
-            "MILAN EMEZETA": "8519.900",
-            "BASTON EMEZETA": "10547.130",
-            "BONDIOLA EMEZETA": "14981.570",
-            "PANCETA AHUM C/C EMEZETA": "12005.260",
-            "PANCETA TIERNIZADA EMEZETA": "6175.090",
-            "PANCETA SALADA EMEZETA": "11875.560",
-            "SALCHICHON C/JAMON EMEZETA": "4036.140",
-            "SALCHICHON PRIMAVERA EMEZETA": "4036.140",
-            "MORTADELA EMEZETA": "4508.740",
-            "MILANCITO EMEZETA": "9694.860",
-            "JAMON BOLON 3783": "5612.070",
-            "LOMO AHUMADO": "9489.980",
-            "PALETA CUADRADA MZ": "5785.830",
-            "MILAN CORTO MZ": "8504.590"
-        },
-        "Alloa Vanguard": {
-            "QUESO AZUL 1/2 ALLOA": "11807.020",
-            "QUESO AZUL ALLOA": "10933.450"
-        },
         "Dulcor": {
-            "MERMELADA POTE DURAZNO": "1019.060",
-            "MERMELADA DULCOR FRASCO FRUTIL": "1722.180",
-            "MERMELADA DULCOR FRASCO HIGO": "1722.180",
-            "MERMELADA DULCOR FRASCO DURAZN": "1346.490",
-            "MERMELADA FRASCO DULCOR CIRUEL": "1346.490",
-            "MERMELADA DULCOR FRASCO DAMASC": "1346.490"
+            "DULCE DE BATATA": "8729.110",
+            "DULCE DE BATATA C/CHOC": "8729.110"
+        },
+        "Rodriguez Acacio": {
+            "CIRUELAS SECAS X 250 C/C": "1106.120",
+            "CIRUELAS X 250 D'AGEN S/C": "1800.670",
+            "PASAS DE UVA S/SEMILLA X 100": "742.520",
+            "PASAS SIN SEMILLA X 10 KG": "5144.810"
         },
         "Aliger": {
-            "SARDO ALIGER": "9343.750"
-        },
-        "Halcon": {
-            "GRASA VACUNA": "1478.220",
-            "GRASA DE CERDO": "1510.770"
+            "BARRA ALIGER": "7911.210"
         },
         "Calchaqui": {
-            "MORTADELA GIG. CALCHAQUI": "7750.030"
+            "MORTADELA BOCHA CALCHAQUI": "7154.390"
         },
-        "Bocatti": {
-            "JAMON COCIDO BOCATTI": "17610.850"
+        "Lo tauro": {
+            "SACHET X 100 LO TAURO": "603.620"
         },
-        "Paladini": {
-            "MORTADELA X4.5KG PALADINI": "7465.430",
-            "MORTADELA FAM. PALADINI": "2224.450",
-            "MORTADELA X 2.5KG PALADINI": "8395.560",
-            "VIENA X 6 FELA": "1065.660",
-            "PALETA PALADINI X6KG": "9603.360",
-            "VIENA X 6 PALDINI": "1634.640",
-            "LEBERWURST X 250 GRS.": "1463.620",
-            "JAMON COCIDO PALADINI X 6 KG": "9572.640",
-            "MILAN TIVOLI": "8273.670",
-            "BONDIOLA PALADINI": "19251.120"
-        },
-        "La Juanita": {
-            "CREMOSO LA JUANITA": "5557.720"
-        },
-        "Finca de Santiago": {
-            "TOMATE POUCH": "2116.150",
-            "NUEZ CUARTA BLANCA": "13834.800"
-        },
-        "Abuelo Marcelino": {
-            "CREMOSO ABUELO": "5618.800",
-            "SARDO FRESCO ABUELO": "9286.210"
+        "Cabrales": {
+            "CAFE EN SAQ. LA PLANTA": "3920.330"
         },
         "Don Luis": {
             "PECHERA DON LUIS": "10672.560",
             "LONGA CALABRESA DON LUIS": "10672.560",
             "SALAME DON LUIS": "11067.830"
         },
-        "Limpialin": {
-            "LIMPIADOR LIQ.LAVANDA": "763.610",
-            "LIMPIADOR LIQUIDO MARINA": "763.610",
-            "LIMPIADOR LIQUIDO PINO": "763.610",
-            "LIMPIADOR LIQUIDO CITRONELA": "763.610"
-        },
-        "El Rey Granel": {
-            "ACEITE DE GIRASOL X 5 LTS": "9952.810"
-        },
-        "OTRAS COMPRAS": {
-            "PALILLOS IMPACTO": "345.300",
-            "CAFE LA VIRGINIA SAQUITOS": "4795.580",
-            "JUGO DE LIMON MINERVA X 250": "1265.370",
-            "MERMELADA CIRUELA": "1476.410",
-            "MAIZ PISINGALLO": "937.630",
-            "SAVORA MONOPORCION": "19566.150",
-            "BROCHES DE PELO PLASTICO": "1132.970"
+        "Mix Dietetica": {
+            "MIX CRIOLLO X 10": "8520.120",
+            "MIX FRUTOS SECOS X 10": "20865.620",
+            "MIX FUERTE X 10": "9041.760",
+            "MIX EUROPEO X 10": "11302.200"
         }
     },
-    "fecha": "24-04-2025 15:42:40"
+    "fecha": "25-04-2025 11:55:43"
 }
