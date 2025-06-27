@@ -30,6 +30,7 @@
             "RICOTTA QUESADA": "3255.750",
             "SABORIZADO QUESADA X 700": "11151.050",
             "SALSA CHEDDAR SACHET": "4265.710",
+            "SARDO FRESCO QUESADA": "9777.840",
             "PARMESANO QUESADA": "14424.160",
             "REGGIANO QUESADA": "13566.990",
             "ROMANITO QUESADA": "12758.140",
@@ -241,13 +242,13 @@
         "Las Piaras": {},
         "Punta del agua": {},
         "Cris Jor": {
-            "MANI CROCANTE CLASICO": "4194.420",
-            "MANI CROCANTE SABOR JAMON": "4194.420",
-            "MANI CROCANTE SABOR PIZZA": "4194.420",
-            "MANI CROCANTE SABOR PROVENZAL": "4194.420",
-            "MANI CROCANTE SABOR QUESO": "4194.420",
-            "MANI CROCANTE SABOR SALAME": "4194.420",
-            "MANI REPELADO CRIS JOR": "4211.990"
+            "MANI CROCANTE CLASICO": "4634.820",
+            "MANI CROCANTE SABOR JAMON": "4634.820",
+            "MANI CROCANTE SABOR PIZZA": "4634.820",
+            "MANI CROCANTE SABOR PROVENZAL": "4634.820",
+            "MANI CROCANTE SABOR QUESO": "4634.820",
+            "MANI CROCANTE SABOR SALAME": "4634.820",
+            "MANI REPELADO CRIS JOR": "4654.250"
         },
         "Fepa": {
             "MATAMBRE EL CRIOLLITO": "13216.500",
@@ -322,7 +323,7 @@
         },
         "Il Molise": {},
         "Abuelo Marcelino": {
-            "CREMOSO ABUELO": "5899.490",
+            "CREMOSO ABUELO": "6085.790",
             "GOUDA ABUELO": "9558.000",
             "SARDO ESTACIONADO ABUELO": "11053.800",
             "SARDO FRESCO ABUELO": "9563.380"
@@ -399,7 +400,6 @@
         },
         "Buenas Sierras": {
             "PALETA DE CERDO BUENAS SIERRAS": "5130.010",
-            "PALETA SANDWICHERA 226": "2699.990",
             "PANCETA AHUMADA BUENAS SIERRAS": "8985.610",
             "PATA DE CERDO BUENAS SIERRAS": "5805.000",
             "QUESO DE CERDO B.SIERRAS": "3240.010"
@@ -427,13 +427,14 @@
             "ARROZ DON MARCOS X500": "1016.730",
             "ARROZ X 500": "1092.130",
             "ARROZ X1KG": "2032.350",
-            "AZUCAR LA CAMPECHANA": "983.170",
-            "AZUCAR LA DULCITA X 1 KG": "867.560",
-            "AZUCAR LA TIKAY X1": "957.170",
-            "BOLSAS 45 X 60": "1883.110",
+            "AZUCAR LA CAMPECHANA": "943.860",
+            "AZUCAR LA DULCITA X 1 KG": "943.860",
+            "AZUCAR LA TIKAY X1": "943.860",
             "BOLSAS 50X70": "2152.420",
             "BOLSAS 60X90": "2648.380",
             "BOLSAS 80 X 110": "4139.350",
+            "BOLSAS ZELNOVA 45 X 60": "450.060",
+            "BOLSAS ZELNOVA 80X110": "2062.780",
             "BROCHES DE PELO PLASTICO": "1132.970",
             "CABO DE MADERA CON ROSCA": "1332.220",
             "CAFE INSTANTANEO LA VIRGINIA": "1983.530",
@@ -443,8 +444,8 @@
             "CALDO VERDURA KNORR X 2": "507.890",
             "CAPUCHINO VIRGINIA SOBRE": "4089.580",
             "CHOCOLINO X 180": "1770.160",
-            "CILO ANILLO LIMON X400": "1222.020",
-            "CILO ANILLO VAINILLA X400": "1340.060",
+            "CILO ANILLO LIMON X400": "1375.870",
+            "CILO ANILLO VAINILLA X400": "1375.870",
             "CILO PEPAS X400": "1215.630",
             "COCA COLA X500": "1386.020",
             "DON SATUR BIZC. AGRIDULCE": "786.130",
@@ -530,7 +531,7 @@
             "TRAPO GRIS B-AIRE/JULIET": "781.360",
             "VAINILLA POZO": "746.950",
             "VINAGRE MANZANA X 500ML": "1304.390",
-            "VIRULANA ROLLO SED METAL": "1529.950",
+            "VIRULANA ROLLO": "1134.530",
             "YERBA AMANDA": "1715.010",
             "YERBA CBSE LIMON X500": "1645.720",
             "YERBA CBSE NARANJA X500": "1645.720",
@@ -545,39 +546,41 @@
     },
     "cambios": {
         "Quesada": {
-            "CRIOLLO QUESADA": "10587.950"
-        },
-        "Dulcor": {
-            "MERMELADA DULCOR FRASCO FRUTIL": "1828.730",
-            "MERMELADA DULCOR FRASCO DURAZN": "1430.620",
-            "MERMELADA DULCOR FRASCO DAMASC": "1429.780"
-        },
-        "Aromas y Sabores": {
-            "PEREJIL DESHIDRATADO X25GR": "459.620"
-        },
-        "Calchaqui": {
-            "MORTADELA BOCHA CALCHAQUI": "7369.020",
-            "MORTADELA GIG. CALCHAQUI": "7982.540",
-            "LECHE LARGA VIDA ILOLAY": "1719.740"
+            "SARDO FRESCO QUESADA": "9777.840"
         },
         "Hellmans": {
             "KETCHUP HELLMAN`S X 60 GRS.": "790.820"
         },
-        "Cabrales": {
-            "CAPSULA CORTADO DOLCE GUSTO": "6023.930",
-            "CAPSULA ESPRESSO DOLCE GUSTO": "6023.930",
-            "CAPSULA INTENSO LA PL.NESPRESS": "5649.160",
-            "CAPSULA LATTE DOLCE GUSTO": "9690.610",
-            "CAPSULA MOKA DOLCE GUSTO": "9690.610",
-            "CAPSULA PERU NESPRESSO": "9544.320",
-            "CAPSULA VITA NESPRESSO": "9544.320"
+        "Cris Jor": {
+            "MANI CROCANTE CLASICO": "4634.820",
+            "MANI CROCANTE SABOR JAMON": "4634.820",
+            "MANI CROCANTE SABOR SALAME": "4634.820",
+            "MANI CROCANTE SABOR PIZZA": "4634.820",
+            "MANI CROCANTE SABOR QUESO": "4634.820",
+            "MANI CROCANTE SABOR PROVENZAL": "4634.820",
+            "MANI REPELADO CRIS JOR": "4654.250"
+        },
+        "Fepa": {
+            "MATAMBRE EL CRIOLLITO": "13216.500"
+        },
+        "Abuelo Marcelino": {
+            "CREMOSO ABUELO": "6085.790"
         },
         "OTRAS COMPRAS": {
+            "VIRULANA ROLLO": "1134.530",
+            "BOLSAS ZELNOVA 45 X 60": "450.060",
+            "AZUCAR LA DULCITA X 1 KG": "943.860",
+            "YERBA MATE ANDRESITO": "1523.710",
+            "CILO ANILLO LIMON X400": "1375.870",
+            "CILO ANILLO VAINILLA X400": "1375.870",
             "LIMON MINERVA X500": "1549.800",
             "TOCADOR PLUSBELLE": "887.810",
+            "AZUCAR LA TIKAY X1": "943.860",
+            "AZUCAR LA CAMPECHANA": "943.860",
             "FOSFOROS 3 PATITOS": "909.350",
-            "JABON TIRA PATRICIA 3X80": "11687.870"
+            "JABON TIRA PATRICIA 3X80": "11687.870",
+            "BOLSAS ZELNOVA 80X110": "2062.780"
         }
     },
-    "fecha": "21-06-2025 13:02:35"
+    "fecha": "27-06-2025 11:43:31"
 }
