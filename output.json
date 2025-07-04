@@ -1,21 +1,21 @@
 {
     "grupos": {
         "Peipo": {
-            "CHEESTICK QUESO X 300": "2166.350",
+            "CHEESTICK QUESO X 300": "2274.670",
             "MANI JAPONES X 700 PEIPO": "3777.910",
-            "PALITOS KETCHUP X 60 GRS.": "493.350",
+            "PALITOS KETCHUP X 60 GRS.": "518.010",
             "PAPA CHEDDAR PEIPO X 330": "4676.020",
             "PAPA COMUN X500": "5561.520",
             "PAPAS CORTE AMERICANO": "5509.060",
             "PAPAS PAY PEIPO": "5471.480",
             "MANI C/CASCARA PEIPO": "5419.550",
             "MANI SALADO PEIPO": "4213.570",
-            "PALITOS SALADOS PEIPO": "4269.720",
-            "BOLITAS CROCANTES PEIPO": "1931.390",
-            "MAIZ INFLADO PEIPO": "3069.130",
+            "PALITOS SALADOS PEIPO": "4483.180",
+            "BOLITAS CROCANTES PEIPO": "2027.960",
+            "MAIZ INFLADO PEIPO": "3222.580",
             "MANI REPELADO PEIPO": "4453.480",
-            "PIZZA ROLLS PEIPO": "1639.560",
-            "TUBITOS PEIPO": "2184.630"
+            "PIZZA ROLLS PEIPO": "1721.550",
+            "TUBITOS PEIPO": "2293.860"
         },
         "Quesada": {
             "BARRA SABORIZADA QUESADA": "11202.430",
@@ -87,11 +87,12 @@
         "Dulcor": {
             "BATATA C/GUINDAS": "18071.940",
             "BATATA CON CHOCOLATE X 2 KG": "3958.540",
-            "BATATA CON CHOCOLATE X 700": "3338.550",
+            "BATATA CON CHOCOLATE X 700": "3534.930",
             "BATATA LATA C/CHOC.": "11337.480",
             "BATATA LATA VLLA.": "11337.480",
             "BATATA VLLA.LATA X 700": "3338.550",
             "BATATA VLLA.X 2 KG.": "3958.540",
+            "BATATA X 500 ESNAOLA": "1350.820",
             "HILERET CLASICO X 500": "10576.760",
             "MEMBRILLO LATA": "13836.170",
             "MEMBRILLO LATA X 700": "4118.260",
@@ -147,7 +148,7 @@
         "Rodriguez Acacio": {
             "BOTELLA TOMATE ROD AC": "1890.000",
             "CIRUELAS SECAS X 250 C/C": "1229.480",
-            "CIRUELAS X 250 D'AGEN S/C": "1929.290",
+            "CIRUELAS X 250 D'AGEN S/C": "2315.150",
             "PASAS DE UVA S/SEMILLA X 100": "810.000",
             "PASAS SIN SEMILLA X 10 KG": "5144.810"
         },
@@ -172,6 +173,7 @@
             "ADOBO P/PIZZAS X 1 KG": "5119.700",
             "AJI MOLIDO X 1 KG": "5554.700",
             "AJO GRANULADO X 25GR": "130.230",
+            "ALBAHACA X 1KG": "9062.960",
             "AZUCAR IMPALPABLE X 200": "975.530",
             "AZUCAR IMPALPABLE X1KG AYS": "4082.460",
             "BICARBONATO X 50 GRS.": "352.330",
@@ -259,7 +261,7 @@
         "Chiro": {
             "ACEITE DE OLIVA X 500": "9841.320",
             "RELLENA GOURMET X 200": "4670.270",
-            "SACHET DESC.X 100 CHIRO": "879.050",
+            "SACHET DESC.X 100 CHIRO": "925.660",
             "SACHET RELLENA CHIRO": "1075.940",
             "SACHET X 100 CHIRO": "692.080"
         },
@@ -356,7 +358,7 @@
         },
         "Don Alejandro Luoni": {
             "CRUDO ARTESANAL DON ALEJANDRO": "18924.840",
-            "PANCETA ARROLLADA": "14910.480"
+            "PANCETA ARROLLADA": "15292.800"
         },
         "Porta": {
             "ACETO BALSAMICO X 500": "2125.180",
@@ -443,7 +445,7 @@
             "CALDO MAGGI WILDE X2": "390.690",
             "CALDO VERDURA KNORR X 2": "507.890",
             "CAPUCHINO VIRGINIA SOBRE": "4089.580",
-            "CHOCOLINO X 180": "1770.160",
+            "CHOCOLINO X 180": "1779.160",
             "CILO ANILLO LIMON X400": "1375.870",
             "CILO ANILLO VAINILLA X400": "1375.870",
             "CILO PEPAS X400": "1215.630",
@@ -457,7 +459,7 @@
             "ESPONJA AMARILLA": "1036.100",
             "ESPONJA DORADA": "1128.400",
             "FIBROESPONJA": "418.380",
-            "FIDEO CELENTANO SOL PAMP": "838.250",
+            "FIDEO CELENTANO SOL PAMP": "748.010",
             "FIDEO FUSSARELLO": "1364.020",
             "FIDEO GUISERO SOL PAMPEANO": "922.520",
             "FIDEO MOSTACHOL SOL PAMPEANO": "748.120",
@@ -515,7 +517,7 @@
             "SAL GRUESA 2 ANCLAS X 500": "1159.600",
             "SALSA GOLF NATURA X 250": "1533.420",
             "SAVORA MONOPORCION": "19566.150",
-            "SAVORA SACHET X60": "660.950",
+            "SAVORA SACHET X60": "724.710",
             "SAVORA X 250 D/P": "1075.930",
             "SECADOR DE GOMA X40": "1293.150",
             "TE COMUN LA VIRGINIA": "859.500",
@@ -530,7 +532,7 @@
             "TRAPO DE PISO": "1114.300",
             "TRAPO GRIS B-AIRE/JULIET": "781.360",
             "VAINILLA POZO": "746.950",
-            "VINAGRE MANZANA X 500ML": "1304.390",
+            "VINAGRE MANZANA X 500ML": "1322.460",
             "VIRULANA ROLLO": "1134.530",
             "YERBA AMANDA": "1715.010",
             "YERBA CBSE LIMON X500": "1645.720",
@@ -539,48 +541,56 @@
             "YERBA MATE ANDRESITO": "1523.710",
             "YERBA MATE TARAGUI X 500": "1907.670",
             "YERBA MAÑANITA": "2006.000",
-            "YERBA PLAYADITO X 500": "2221.980",
+            "YERBA PLAYADITO X 500": "2780.310",
             "YERBA TARAGÜI X 500 SIN PALO": "2962.520",
             "YERBA UNION X500": "2138.710"
         }
     },
     "cambios": {
+        "Peipo": {
+            "PALITOS SALADOS PEIPO": "4483.180",
+            "BOLITAS CROCANTES PEIPO": "2027.960",
+            "PIZZA ROLLS PEIPO": "1721.550",
+            "MAIZ INFLADO PEIPO": "3222.580",
+            "MANI REPELADO PEIPO": "4453.480",
+            "TUBITOS PEIPO": "2293.860",
+            "CHEESTICK QUESO X 300": "2274.670",
+            "PALITOS KETCHUP X 60 GRS.": "518.010"
+        },
         "Quesada": {
+            "MANTECA X200GR CLUCELAT": "1945.860",
+            "SARDO QUESADA": "12281.340",
+            "MANTECA X 2.5 KG CLUCELAT": "24322.920",
+            "REGIANO MITADES": "13767.140",
+            "PROVOLETA QUESADA": "12758.140",
             "SARDO FRESCO QUESADA": "9777.840"
         },
-        "Hellmans": {
-            "KETCHUP HELLMAN`S X 60 GRS.": "790.820"
+        "Dulcor": {
+            "BATATA CON CHOCOLATE X 700": "3534.930",
+            "BATATA X 500 ESNAOLA": "1350.820"
         },
-        "Cris Jor": {
-            "MANI CROCANTE CLASICO": "4634.820",
-            "MANI CROCANTE SABOR JAMON": "4634.820",
-            "MANI CROCANTE SABOR SALAME": "4634.820",
-            "MANI CROCANTE SABOR PIZZA": "4634.820",
-            "MANI CROCANTE SABOR QUESO": "4634.820",
-            "MANI CROCANTE SABOR PROVENZAL": "4634.820",
-            "MANI REPELADO CRIS JOR": "4654.250"
+        "Rodriguez Acacio": {
+            "CIRUELAS X 250 D'AGEN S/C": "2315.150"
         },
-        "Fepa": {
-            "MATAMBRE EL CRIOLLITO": "13216.500"
+        "Aromas y Sabores": {
+            "ALBAHACA X 1KG": "9062.960"
         },
-        "Abuelo Marcelino": {
-            "CREMOSO ABUELO": "6085.790"
+        "Chiro": {
+            "SACHET DESC.X 100 CHIRO": "925.660"
+        },
+        "La Juanita": {
+            "CREMOSO LA JUANITA": "6160.320"
+        },
+        "Don Alejandro Luoni": {
+            "PANCETA ARROLLADA": "15292.800"
         },
         "OTRAS COMPRAS": {
-            "VIRULANA ROLLO": "1134.530",
-            "BOLSAS ZELNOVA 45 X 60": "450.060",
-            "AZUCAR LA DULCITA X 1 KG": "943.860",
-            "YERBA MATE ANDRESITO": "1523.710",
-            "CILO ANILLO LIMON X400": "1375.870",
-            "CILO ANILLO VAINILLA X400": "1375.870",
-            "LIMON MINERVA X500": "1549.800",
-            "TOCADOR PLUSBELLE": "887.810",
-            "AZUCAR LA TIKAY X1": "943.860",
-            "AZUCAR LA CAMPECHANA": "943.860",
-            "FOSFOROS 3 PATITOS": "909.350",
-            "JABON TIRA PATRICIA 3X80": "11687.870",
-            "BOLSAS ZELNOVA 80X110": "2062.780"
+            "SAVORA SACHET X60": "724.710",
+            "YERBA PLAYADITO X 500": "2780.310",
+            "CHOCOLINO X 180": "1779.160",
+            "VINAGRE MANZANA X 500ML": "1322.460",
+            "FIDEO CELENTANO SOL PAMP": "748.010"
         }
     },
-    "fecha": "27-06-2025 11:43:50"
+    "fecha": "04-07-2025 12:37:53"
 }
