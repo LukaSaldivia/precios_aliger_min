@@ -50,7 +50,7 @@
         },
         "Emezeta": {
             "BARRIL MZ": "6347.760",
-            "BONDIOLA AL VACIO 1/2 MZ": "14927.430",
+            "BONDIOLA AL VACIO 1/2 MZ": "15375.250",
             "JAMON BOLON 3783": "5612.070",
             "LOMO AHUMADO EMEZETA": "9489.980",
             "MILAN CORTO MZ": "8504.590",
@@ -85,34 +85,35 @@
         },
         "Spalen": {},
         "Dulcor": {
-            "BATATA C/GUINDAS": "18071.940",
-            "BATATA CON CHOCOLATE X 2 KG": "3958.540",
+            "BATATA C/GUINDAS": "19169.350",
+            "BATATA CAJON ESNAOLA": "10296.240",
+            "BATATA CON CHOCOLATE X 2 KG": "4198.830",
             "BATATA CON CHOCOLATE X 700": "3534.930",
             "BATATA LATA C/CHOC.": "11337.480",
             "BATATA LATA VLLA.": "11337.480",
             "BATATA VLLA.LATA X 700": "3338.550",
-            "BATATA VLLA.X 2 KG.": "3958.540",
+            "BATATA VLLA.X 2 KG.": "4198.830",
             "BATATA X 500 ESNAOLA": "1350.820",
             "HILERET CLASICO X 500": "10576.760",
             "MEMBRILLO LATA": "13836.170",
             "MEMBRILLO LATA X 700": "4118.260",
-            "MEMBRILLO X 2 KG.": "4833.360",
+            "MEMBRILLO X 2 KG.": "5159.820",
             "MERMELADA ARANADANO X 390": "3139.590",
             "MERMELADA CORMILLOT DURAZNO": "1484.530",
-            "MERMELADA DULCOR FRASCO DAMASC": "1429.780",
-            "MERMELADA DULCOR FRASCO DURAZN": "1430.620",
-            "MERMELADA DULCOR FRASCO FRUTIL": "1828.730",
+            "MERMELADA DULCOR FRASCO DAMASC": "1432.310",
+            "MERMELADA DULCOR FRASCO DURAZN": "1432.310",
+            "MERMELADA DULCOR FRASCO FRUTIL": "1831.990",
             "MERMELADA DULCOR FRASCO HIGO": "1722.180",
             "MERMELADA DULCOR FRASCO NARANJ": "1282.360",
             "MERMELADA ESNAOLA DURAZNO X 39": "2511.770",
-            "MERMELADA FRASCO DULCOR CIRUEL": "1346.490",
+            "MERMELADA FRASCO DULCOR CIRUEL": "1419.860",
             "MERMELADA FRUTILLA ESNAOLA X 3": "3139.590",
             "MERMELADA FRUTOS ROJOS X 390": "3139.590",
             "MERMELADA POTE DURAZNO": "1019.060",
             "POSTRE DCE.LECHE C/CHOC.": "26353.300",
-            "DULCE DE BATATA": "8729.110",
-            "DULCE DE BATATA C/CHOC": "8729.110",
-            "DULCE DE MEMBRILLO": "11332.970"
+            "DULCE DE BATATA": "9258.990",
+            "DULCE DE BATATA C/CHOC": "9258.990",
+            "DULCE DE MEMBRILLO": "11403.000"
         },
         "San Cayetano": {
             "AJI EN VINAGRE X900GR": "12826.040",
@@ -154,6 +155,7 @@
         },
         "Aliger": {
             "PATEGRAS ALIGER": "9262.080",
+            "SARDO ALIGER": "9625.010",
             "BARRA ALIGER": "8293.990"
         },
         "El Artesano": {
@@ -228,7 +230,7 @@
             "MAYONESA X2.9 HELLMANS": "11679.170"
         },
         "Paladini": {
-            "BONDIOLA PALADINI": "23015.870",
+            "BONDIOLA PALADINI": "21369.600",
             "JAMON COCIDO PALADINI X 6 KG": "10701.890",
             "LEBERWURST X 250 GRS.": "1933.240",
             "MILAN FELA": "11954.900",
@@ -327,7 +329,7 @@
         "Abuelo Marcelino": {
             "CREMOSO ABUELO": "6085.790",
             "GOUDA ABUELO": "9558.000",
-            "SARDO ESTACIONADO ABUELO": "11053.800",
+            "SARDO ESTACIONADO ABUELO": "11302.200",
             "SARDO FRESCO ABUELO": "9563.380"
         },
         "Don Luis": {
@@ -362,7 +364,7 @@
         },
         "Porta": {
             "ACETO BALSAMICO X 500": "2125.180",
-            "ALCOHOL DE QUEMAR X 1L": "2052.580",
+            "ALCOHOL DE QUEMAR X 1L": "2545.220",
             "ALCOHOL PURO X 500": "1880.640",
             "SALSA CAESAR X 285": "3406.040"
         },
@@ -383,8 +385,8 @@
             "LAMPARAS LED 60 W": "1137.560"
         },
         "Tresal": {
-            "SAL FINA TRESAL X 500": "477.420",
-            "SAL GRUESA TRESAL X 1 KG": "747.440",
+            "SAL FINA TRESAL X 500": "489.650",
+            "SAL GRUESA TRESAL X 1 KG": "760.790",
             "SAL MONOPORCION": "10622.450"
         },
         "La Quesera": {
@@ -423,7 +425,7 @@
             "ACEITE MOLINO CAÑUELAS": "2693.500",
             "ACEITE MOLTO GIRASOL X900": "2188.410",
             "ACEITE NATURA X900": "2103.650",
-            "ALA DETERGENTE": "1816.660",
+            "ALA DETERGENTE": "2051.070",
             "ALGODON DONCELLA X 70 GRS.": "664.480",
             "ARROZ AMANDA": "1073.080",
             "ARROZ DON MARCOS X500": "1016.730",
@@ -433,7 +435,7 @@
             "AZUCAR LA DULCITA X 1 KG": "943.860",
             "AZUCAR LA TIKAY X1": "943.860",
             "BOLSAS 50X70": "2152.420",
-            "BOLSAS 60X90": "2648.380",
+            "BOLSAS 60X90": "1031.390",
             "BOLSAS 80 X 110": "4139.350",
             "BOLSAS ZELNOVA 45 X 60": "450.060",
             "BOLSAS ZELNOVA 80X110": "2062.780",
@@ -442,6 +444,7 @@
             "CAFE INSTANTANEO LA VIRGINIA": "1983.530",
             "CAFE LA VIRGINIA SAQUITOS": "4795.580",
             "CAJA NAVIDEÑA Nº4": "44467.500",
+            "CALDO DE GALLINA": "468.820",
             "CALDO MAGGI WILDE X2": "390.690",
             "CALDO VERDURA KNORR X 2": "507.890",
             "CAPUCHINO VIRGINIA SOBRE": "4089.580",
@@ -493,7 +496,7 @@
             "LIMON MINERVA X500": "2207.340",
             "LIMP LIQ HEROE X900 BRISA MAR": "781.360",
             "LIMP LIQ HEROO X900 PINO SILV": "781.360",
-            "LIMPIADOR POETT": "1437.700",
+            "LIMPIADOR POETT": "1613.510",
             "MAIZ PISINGALLO": "937.630",
             "MARGARINA MASA PILON": "2699.490",
             "MATAMBRE TRIUNFO": "11834.710",
@@ -503,7 +506,7 @@
             "MAYONESA NATURA X 125": "621.420",
             "MAYONESA NATURA X 250": "1275.970",
             "MORRON X 185": "2670.940",
-            "NATURA SALSA GOLF X125": "838.010",
+            "NATURA SALSA GOLF X125": "1039.210",
             "NESQUIK X 180": "1953.400",
             "OREGANO ALICANTE X 25": "990.370",
             "PALILLOS IMPACTO": "345.300",
@@ -530,7 +533,7 @@
             "TOCADOR PLUSBELLE": "887.810",
             "TOMATE X8 COUPER": "10330.850",
             "TRAPO DE PISO": "1114.300",
-            "TRAPO GRIS B-AIRE/JULIET": "781.360",
+            "TRAPO GRIS B-AIRE/JULIET": "879.030",
             "VAINILLA POZO": "746.950",
             "VINAGRE MANZANA X 500ML": "1322.460",
             "VIRULANA ROLLO": "1134.530",
@@ -548,49 +551,65 @@
     },
     "cambios": {
         "Peipo": {
-            "PALITOS SALADOS PEIPO": "4483.180",
-            "BOLITAS CROCANTES PEIPO": "2027.960",
-            "PIZZA ROLLS PEIPO": "1721.550",
-            "MAIZ INFLADO PEIPO": "3222.580",
-            "MANI REPELADO PEIPO": "4453.480",
-            "TUBITOS PEIPO": "2293.860",
-            "CHEESTICK QUESO X 300": "2274.670",
-            "PALITOS KETCHUP X 60 GRS.": "518.010"
+            "MANI REPELADO PEIPO": "4453.480"
         },
         "Quesada": {
             "MANTECA X200GR CLUCELAT": "1945.860",
-            "SARDO QUESADA": "12281.340",
             "MANTECA X 2.5 KG CLUCELAT": "24322.920",
-            "REGIANO MITADES": "13767.140",
-            "PROVOLETA QUESADA": "12758.140",
-            "SARDO FRESCO QUESADA": "9777.840"
+            "REGIANO MITADES": "13767.140"
+        },
+        "Emezeta": {
+            "BONDIOLA AL VACIO 1/2 MZ": "15375.250"
         },
         "Dulcor": {
+            "DULCE DE MEMBRILLO": "11403.000",
+            "DULCE DE BATATA": "9258.990",
+            "DULCE DE BATATA C/CHOC": "9258.990",
+            "BATATA C/GUINDAS": "19169.350",
+            "MERMELADA DULCOR FRASCO FRUTIL": "1831.990",
+            "MERMELADA DULCOR FRASCO DURAZN": "1432.310",
+            "MERMELADA FRASCO DULCOR CIRUEL": "1419.860",
+            "MERMELADA DULCOR FRASCO DAMASC": "1432.310",
+            "BATATA CON CHOCOLATE X 2 KG": "4198.830",
+            "BATATA VLLA.X 2 KG.": "4198.830",
+            "MEMBRILLO X 2 KG.": "5159.820",
             "BATATA CON CHOCOLATE X 700": "3534.930",
-            "BATATA X 500 ESNAOLA": "1350.820"
+            "BATATA X 500 ESNAOLA": "1350.820",
+            "BATATA CAJON ESNAOLA": "10296.240"
         },
         "Rodriguez Acacio": {
             "CIRUELAS X 250 D'AGEN S/C": "2315.150"
         },
-        "Aromas y Sabores": {
-            "ALBAHACA X 1KG": "9062.960"
+        "Aliger": {
+            "SARDO ALIGER": "9625.010"
         },
-        "Chiro": {
-            "SACHET DESC.X 100 CHIRO": "925.660"
+        "Paladini": {
+            "BONDIOLA PALADINI": "21369.600"
         },
-        "La Juanita": {
-            "CREMOSO LA JUANITA": "6160.320"
+        "Abuelo Marcelino": {
+            "SARDO ESTACIONADO ABUELO": "11302.200"
         },
-        "Don Alejandro Luoni": {
-            "PANCETA ARROLLADA": "15292.800"
+        "Porta": {
+            "ALCOHOL DE QUEMAR X 1L": "2545.220"
+        },
+        "Tresal": {
+            "SAL GRUESA TRESAL X 1 KG": "760.790",
+            "SAL FINA TRESAL X 500": "489.650"
         },
         "OTRAS COMPRAS": {
             "SAVORA SACHET X60": "724.710",
+            "ALA DETERGENTE": "2051.070",
             "YERBA PLAYADITO X 500": "2780.310",
             "CHOCOLINO X 180": "1779.160",
+            "BOLSAS 60X90": "1031.390",
             "VINAGRE MANZANA X 500ML": "1322.460",
-            "FIDEO CELENTANO SOL PAMP": "748.010"
+            "FIDEO CELENTANO SOL PAMP": "748.010",
+            "LIMPIADOR POETT": "1613.510",
+            "LIMON MINERVA X500": "2207.340",
+            "TRAPO GRIS B-AIRE/JULIET": "879.030",
+            "NATURA SALSA GOLF X125": "1039.210",
+            "CALDO DE GALLINA": "468.820"
         }
     },
-    "fecha": "04-07-2025 12:37:53"
+    "fecha": "10-07-2025 13:51:05"
 }
