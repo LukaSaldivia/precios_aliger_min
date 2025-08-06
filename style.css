@@ -8,7 +8,7 @@
   --clr-primary-light: #8A8BAC;
 
   --clr-font: #262205;
-  --clr-alert: #FFDF84;
+  --clr-alert: hsl(44, 100%, 76%);
 
   --clr-neutral-900: #eff6fa;
   --clr-neutral-700: #D8D8DE;
@@ -211,7 +211,7 @@ body>main {
       pointer-events: none;
     }
 
-    &.active{
+    &.active {
       filter: drop-shadow(0 3px 6px #1126);
     }
   }
@@ -259,6 +259,14 @@ body>main {
         padding: 10px 20px;
         border-radius: 10px;
 
+        &[data-id="OTRAS COMPRAS"] {
+          display: none;
+
+          &+section.list-container {
+            display: none;
+          }
+        }
+
         label {
           height: 200%;
 
@@ -282,7 +290,8 @@ body>main {
 
       section.list-container {
         margin-top: 5px;
-        display: grid;
+        display: flex;
+        flex-direction: column;
         padding-left: 50px;
         gap: 10px;
 
@@ -312,6 +321,7 @@ body>main {
           &.alert {
             border-color: var(--clr-alert);
             border-width: 3px;
+            order: -1;
 
             p:last-child {
               font-weight: var(--fw-bold);
@@ -320,8 +330,29 @@ body>main {
         }
       }
 
-      &:has(article.alert) section.group {
-        background-color: var(--clr-alert);
+      &:has(article.alert) {
+        order: -1;
+
+        section.group {
+          background-color: var(--clr-alert);
+
+          p.group_name::after {
+            content: attr(data-cambios);
+            background-color: hsl(from var(--clr-font) h s l / .3);
+            color: var(--clr-font);
+            margin-left: 8px;
+            border-radius: 50%;
+            padding: 4px;
+            width: 30px;
+            aspect-ratio: 1;
+            font-weight: var(--fw-bold);
+            display: inline-flex;
+            justify-content: center;
+            align-items: center;
+          }
+
+        }
+
       }
 
       &:has(section.group input:checked) {
@@ -333,11 +364,12 @@ body>main {
 
     }
 
-    p.update{
+    p.update {
       align-self: end;
       color: var(--clr-primary-light);
       width: fit-content;
       font-size: var(--fs-p);
+      order: -1;
     }
 
     span.loader {
@@ -356,26 +388,41 @@ body>main {
       pointer-events: none;
     }
 
-    &:has(.row) span.loader{
+    &:has(.row) span.loader {
       display: none;
     }
 
-    &.searching{
-      .row{
+    &.searching {
+      .row {
         display: contents;
 
-        section.group{
+        section.group {
           display: none;
+
+          &[data-id="OTRAS COMPRAS"] + section.list-container{
+            display: contents;
+          }
         }
 
-        section.list-container{
+        section.list-container {
           display: contents;
 
-          article:not(.found){
+          article{
+            order: unset;
+          }
+
+          article p:first-child::after{
+            content: "- " attr(data-empresa);
+            margin-left: .7cap;
+            color: var(--clr-primary-light);
+            font-style: italic;
+          }
+
+          article:not(.found) {
             display: none;
           }
         }
-        
+
       }
     }
   }
@@ -389,31 +436,32 @@ body>main {
   }
 }
 
-@media print{
-  [role="group"]{
+@media print {
+  [role="group"] {
     display: none;
   }
 
-  .caption .sqr{
+  .caption .sqr {
     border: 2px dotted var(--clr-font);
   }
 
-  #data{
+  #data {
     display: grid;
-    .row{
+
+    .row {
       grid-template-rows: min-content 1fr !important;
 
-      section.group{
+      section.group {
         border: 3px solid var(--clr-neutral-700);
 
         break-inside: avoid;
 
-        label{
+        label {
           display: none;
         }
       }
 
-      section.list-container article.alert{
+      section.list-container article.alert {
         border: 2px dotted var(--clr-font) !important;
       }
 
