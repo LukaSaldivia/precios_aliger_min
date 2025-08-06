@@ -19,9 +19,7 @@ with open(input_file, 'r') as infile:
     for line in infile:
         # POS X 1860 -> grupo de venta
         # POS X 4620 -> producto
-        # POS X 7980 -> precio de producto
-        print(line)
-       
+        # POS X 7980 -> precio de producto       
         matches = re.finditer(r'\\pard \\plain \\nowrap\\f0\\fs18\\phpg\\posx(1860|4620|7980)\\pvpg\\posy[0-9]+(.*?)\s?\\par', line)  # Busca todas las coincidencias
        
         for match in matches:

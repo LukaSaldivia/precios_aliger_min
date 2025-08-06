@@ -12,8 +12,6 @@ const input = $('[role="group"] input')
 const container = $('#data')
 
 fetch('output.json').then(response => response.json()).then(data => {
-  console.log(data)
-
   $('span.date').textContent = data.fecha
 
   const empresas = Object.keys(data.grupos)
