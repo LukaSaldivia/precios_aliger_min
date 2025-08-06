@@ -20,6 +20,7 @@ with open(input_file, 'r') as infile:
         # POS X 1860 -> grupo de venta
         # POS X 4620 -> producto
         # POS X 7980 -> precio de producto
+        print(line)
        
         matches = re.finditer(r'\\pard \\plain \\nowrap\\f0\\fs18\\phpg\\posx(1860|4620|7980)\\pvpg\\posy[0-9]+(.*?)\s?\\par', line)  # Busca todas las coincidencias
        
@@ -29,6 +30,7 @@ with open(input_file, 'r') as infile:
 
             if posx == '1860': # Si es un grupo
                 current_group = match.groups()[1].strip()
+                print(current_group)
                 data['grupos'][current_group] = {}
 
             if posx == '7980': # Si es un precio
