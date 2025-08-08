@@ -423,6 +423,7 @@
         },
         "Lopardo": {
             "CASERITA LOPARDO": "10171.970",
+            "JAMON COCIDO C/C LOPARDO": "6132.640",
             "JAMON NATURAL LOPARDO": "11095.050",
             "LONGA NAP.LOPARDO": "10171.970",
             "MILAN LOPARDO": "7462.400",
@@ -587,7 +588,8 @@
         },
         "Lopardo": {
             "CASERITA LOPARDO": "10171.970",
-            "LONGA NAP.LOPARDO": "10171.970"
+            "LONGA NAP.LOPARDO": "10171.970",
+            "JAMON COCIDO C/C LOPARDO": "6132.640"
         },
         "OTRAS COMPRAS": {
             "YERBA MATE ANDRESITO": "1523.710",
@@ -600,5 +602,5 @@
             "YERBA CBSE NARANJA X500": "1810.460"
         }
     },
-    "fecha": "07-08-2025 11:34:51"
+    "fecha": "08-08-2025 11:28:48"
 }
