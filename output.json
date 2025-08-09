@@ -49,29 +49,29 @@
             "MANTECA X200GR CLUCELAT": "1945.860"
         },
         "Emezeta": {
-            "BARRIL MZ": "6347.760",
-            "BONDIOLA AL VACIO 1/2 MZ": "15375.250",
-            "JAMON BOLON 3783": "5612.070",
-            "LOMO AHUMADO EMEZETA": "9489.980",
-            "MILAN CORTO MZ": "8504.590",
-            "MILANCITO EMEZETA": "9694.860",
-            "PALETA CUADRADA EMEZETA": "5785.830",
-            "PALETA MINI S/GR.MZ": "5570.320",
-            "PERNIL MINI EMEZETA": "6238.830",
-            "FIAMBRE DE JAMON COCIDO GRANDE": "6193.370",
-            "JAMON NATIVO EMEZETA": "9208.310",
-            "PALETA MINI EMEZETA": "5737.420",
-            "MORTADELA EMEZETA": "4508.740",
-            "SALCHICHON C/JAMON EMEZETA": "4036.140",
-            "SALCHICHON PRIMAVERA EMEZETA": "4036.140",
-            "BASTON EMEZETA": "10547.130",
-            "MILAN LARGO EMEZETA": "8519.900",
-            "BONDIOLA EMEZETA": "14981.570",
-            "CRUDO EMEZETA": "19444.860",
-            "LOMO CANADIENSE EMEZETA": "11089.360",
-            "PANCETA AHUM C/C EMEZETA": "12005.260",
-            "PANCETA SALADA EMEZETA": "11875.560",
-            "PANCETA TIERNIZADA EMEZETA": "6175.090"
+            "BARRIL MZ": "6665.130",
+            "BONDIOLA AL VACIO 1/2 MZ": "16144.030",
+            "JAMON BOLON 3783": "5892.680",
+            "LOMO AHUMADO EMEZETA": "9964.470",
+            "MILAN CORTO MZ": "8929.840",
+            "MILANCITO EMEZETA": "10179.610",
+            "PALETA CUADRADA EMEZETA": "6075.130",
+            "PALETA MINI S/GR.MZ": "5848.840",
+            "PERNIL MINI EMEZETA": "6550.770",
+            "FIAMBRE DE JAMON COCIDO GRANDE": "6503.050",
+            "JAMON NATIVO EMEZETA": "9668.710",
+            "PALETA MINI EMEZETA": "6024.290",
+            "MORTADELA EMEZETA": "4734.170",
+            "SALCHICHON C/JAMON EMEZETA": "4237.940",
+            "SALCHICHON PRIMAVERA EMEZETA": "4237.940",
+            "BASTON EMEZETA": "11074.500",
+            "MILAN LARGO EMEZETA": "8945.890",
+            "BONDIOLA EMEZETA": "15730.640",
+            "CRUDO EMEZETA": "20417.100",
+            "LOMO CANADIENSE EMEZETA": "11643.830",
+            "PANCETA AHUM C/C EMEZETA": "12605.510",
+            "PANCETA SALADA EMEZETA": "12469.340",
+            "PANCETA TIERNIZADA EMEZETA": "6483.850"
         },
         "Productos W": {
             "BONDIOLA W": "13616.090",
@@ -576,6 +576,31 @@
             "MUZZA CILINDRO QUESADA": "6895.260",
             "REGGIANO QUESADA": "13566.990"
         },
+        "Emezeta": {
+            "CRUDO EMEZETA": "20417.100",
+            "JAMON NATIVO EMEZETA": "9668.710",
+            "FIAMBRE DE JAMON COCIDO GRANDE": "6503.050",
+            "PALETA MINI EMEZETA": "6024.290",
+            "LOMO CANADIENSE EMEZETA": "11643.830",
+            "MILAN LARGO EMEZETA": "8945.890",
+            "BASTON EMEZETA": "11074.500",
+            "BONDIOLA EMEZETA": "15730.640",
+            "PANCETA AHUM C/C EMEZETA": "12605.510",
+            "PANCETA TIERNIZADA EMEZETA": "6483.850",
+            "PANCETA SALADA EMEZETA": "12469.340",
+            "SALCHICHON C/JAMON EMEZETA": "4237.940",
+            "SALCHICHON PRIMAVERA EMEZETA": "4237.940",
+            "MORTADELA EMEZETA": "4734.170",
+            "MILANCITO EMEZETA": "10179.610",
+            "JAMON BOLON 3783": "5892.680",
+            "LOMO AHUMADO EMEZETA": "9964.470",
+            "PALETA CUADRADA EMEZETA": "6075.130",
+            "PERNIL MINI EMEZETA": "6550.770",
+            "MILAN CORTO MZ": "8929.840",
+            "BARRIL MZ": "6665.130",
+            "PALETA MINI S/GR.MZ": "5848.840",
+            "BONDIOLA AL VACIO 1/2 MZ": "16144.030"
+        },
         "Aromas y Sabores": {
             "BICARBONATO X 50 GRS.": "599.190"
         },
@@ -602,5 +627,5 @@
             "YERBA CBSE NARANJA X500": "1810.460"
         }
     },
-    "fecha": "08-08-2025 11:28:48"
+    "fecha": "09-08-2025 19:19:00"
 }
