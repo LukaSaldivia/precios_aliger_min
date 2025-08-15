@@ -494,7 +494,7 @@
             "FIDEO TIRABUZON SOL PAMPEANO X": "748.120",
             "FOSFOROS 3 PATITOS": "909.350",
             "GALLETITA PEPAS X400": "1064.620",
-            "GALLETITAS LA PROVIDENCIA X 3": "1113.150",
+            "GALLETITAS LA PROVIDENCIA X 3": "1113.210",
             "HARINA 000 CAÑUELA X1KG": "701.580",
             "HARINA COMUN 000 PUREZA": "883.050",
             "HARINA COMUN 0000 PUREZA": "1102.240",
@@ -572,10 +572,6 @@
         }
     },
     "cambios": {
-        "Quesada": {
-            "MUZZA CILINDRO QUESADA": "6895.260",
-            "REGGIANO QUESADA": "13566.990"
-        },
         "Emezeta": {
             "CRUDO EMEZETA": "20417.100",
             "JAMON NATIVO EMEZETA": "9668.710",
@@ -601,31 +597,15 @@
             "PALETA MINI S/GR.MZ": "5848.840",
             "BONDIOLA AL VACIO 1/2 MZ": "16144.030"
         },
-        "Aromas y Sabores": {
-            "BICARBONATO X 50 GRS.": "599.190"
-        },
-        "Hellmans": {
-            "MAYONESA MONOPORCION": "16013.930"
-        },
-        "Paladini": {
-            "PATE PALADINI": "594.590",
-            "PICADILLO PALADINI": "578.080"
+        "Calchaqui": {
+            "MORTADELA GIG. CALCHAQUI": "7982.540"
         },
         "Lopardo": {
-            "CASERITA LOPARDO": "10171.970",
-            "LONGA NAP.LOPARDO": "10171.970",
             "JAMON COCIDO C/C LOPARDO": "6132.640"
         },
         "OTRAS COMPRAS": {
-            "YERBA MATE ANDRESITO": "1523.710",
-            "YERBA CBSE TRADICIONAL X500": "1810.460",
-            "YERBA PLAYADITO X 500": "2438.860",
-            "JABON EN POLVO ALA ECOLAVADO X": "1369.330",
-            "GALLETITAS LA PROVIDENCIA X 3": "1113.150",
-            "MAIZ PISINGALLO": "1172.040",
-            "YERBA CBSE LIMON X500": "1810.460",
-            "YERBA CBSE NARANJA X500": "1810.460"
+            "GALLETITAS LA PROVIDENCIA X 3": "1113.210"
         }
     },
-    "fecha": "09-08-2025 19:19:00"
+    "fecha": "15-08-2025 10:47:42"
 }
