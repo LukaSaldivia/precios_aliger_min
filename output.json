@@ -85,7 +85,7 @@
         },
         "Spalen": {},
         "Dulcor": {
-            "BATATA C/GUINDAS": "19169.350",
+            "BATATA C/GUINDAS": "20712.270",
             "BATATA CAJON ESNAOLA": "10296.240",
             "BATATA CON CHOC.X 500": "1425.710",
             "BATATA CON CHOCOLATE X 2 KG": "4198.830",
@@ -102,9 +102,9 @@
             "MEMBRILLO X 500": "1742.990",
             "MERMELADA ARANADANO X 390": "3139.590",
             "MERMELADA CORMILLOT DURAZNO": "1484.530",
-            "MERMELADA DULCOR FRASCO DAMASC": "1432.310",
-            "MERMELADA DULCOR FRASCO DURAZN": "1432.310",
-            "MERMELADA DULCOR FRASCO FRUTIL": "1831.990",
+            "MERMELADA DULCOR FRASCO DAMASC": "1518.490",
+            "MERMELADA DULCOR FRASCO DURAZN": "1518.490",
+            "MERMELADA DULCOR FRASCO FRUTIL": "1942.210",
             "MERMELADA DULCOR FRASCO HIGO": "1722.180",
             "MERMELADA DULCOR FRASCO NARANJ": "1448.840",
             "MERMELADA ESNAOLA DURAZNO X 39": "2511.770",
@@ -172,31 +172,31 @@
             "GRASA VACUNA": "2063.860"
         },
         "Aromas y Sabores": {
-            "ADOBO P/PIZZAS X 1 KG": "5119.700",
+            "ADOBO P/PIZZAS X 1 KG": "5160.670",
             "AJI MOLIDO X 1 KG": "5554.700",
             "AJO GRANULADO X 25GR": "130.230",
             "ALBAHACA X 1KG": "9062.960",
             "AZUCAR IMPALPABLE X 200": "975.530",
-            "AZUCAR IMPALPABLE X1KG AYS": "4082.460",
+            "AZUCAR IMPALPABLE X1KG AYS": "4115.130",
             "BICARBONATO X 50 GRS.": "599.190",
             "CANELA MOLIDA X25": "509.650",
             "CHIMICHURRI X 1 KG": "4388.790",
             "COCO RALLADO X 25 GRS.": "310.550",
-            "COCO RALLADO X1KG AYS": "7139.340",
+            "COCO RALLADO X1KG AYS": "7194.260",
             "COMINO X 1 KG": "4833.660",
             "CONDIMENTO P/ARROZ": "372.580",
             "ESPECIES SURTIDA X1KG": "7350.750",
-            "EXTRACTO DE VAIN AYS X100CC": "559.840",
-            "FECULA DE MAIZ AYS X1KG": "2503.650",
+            "EXTRACTO DE VAIN AYS X100CC": "564.510",
+            "FECULA DE MAIZ AYS X1KG": "2523.690",
             "FECULA DE MAIZ X 200": "608.400",
             "GRAGEAS P/REPOSTERIA": "342.420",
             "GRANAS P/REPOS.SURT": "302.600",
-            "OREGANO X 1 KG": "4706.130",
+            "OREGANO X 1 KG": "4744.700",
             "PEREJIL DESHIDRATADO X25GR": "459.620",
-            "PIM BLANCA MOLIDA X 1 KG": "12824.490",
-            "PIMENTON X 1 KG": "7115.330",
-            "PROVENZAL X 1 KG": "5524.000",
-            "ADOBO X25GR": "299.200",
+            "PIM BLANCA MOLIDA X 1 KG": "12927.080",
+            "PIMENTON X 1 KG": "7173.640",
+            "PROVENZAL X 1 KG": "5568.200",
+            "ADOBO X25GR": "301.480",
             "AJI MOLIDO X25GR": "336.330",
             "CHIMICHURRI X25GR": "279.910",
             "COMINO X25GR": "312.060",
@@ -206,20 +206,20 @@
             "OREGANO X25GR": "365.800",
             "PIM NEGRA EN GRANO X25GR": "833.740",
             "PIM NEGRA MOLIDA X25GR": "576.840",
-            "PIMENTON X25GR": "355.630",
+            "PIMENTON X25GR": "358.350",
             "PIMIENTA BLANCA X25GR": "860.860",
             "POLVO PARA HORNEAR X50GR": "466.730",
-            "PROVENZAL X25GR": "406.690",
+            "PROVENZAL X25GR": "409.890",
             "SALSA BLANCA X25GR": "277.590"
         },
         "Calchaqui": {
-            "LECHE LARGA VIDA ILOLAY": "1719.740",
+            "LECHE LARGA VIDA ILOLAY": "1562.490",
             "MORTADELA PICCOLA CALCHAQUI": "2084.930",
             "BONDIOLA CALCHAQUI": "21097.020",
-            "MORTADELA BOCHA CALCHAQUI": "7369.020",
-            "MORTADELA C/PIST CALCHAQUI": "10461.150",
-            "MORTADELA CAÑON CALCHAQUI": "6309.440",
-            "MORTADELA GIG. CALCHAQUI": "7982.540",
+            "MORTADELA BOCHA CALCHAQUI": "7921.770",
+            "MORTADELA C/PIST CALCHAQUI": "12443.870",
+            "MORTADELA CAÑON CALCHAQUI": "6367.110",
+            "MORTADELA GIG. CALCHAQUI": "8714.400",
             "PANCETA AHUMADA CALCHAQUI": "17103.220"
         },
         "Bocatti": {
@@ -232,20 +232,20 @@
             "MAYONESA X2.9 HELLMANS": "11922.070"
         },
         "Paladini": {
-            "BONDIOLA PALADINI": "23909.240",
+            "BONDIOLA PALADINI": "25049.540",
             "JAMON COCIDO PALADINI X 6 KG": "10785.000",
-            "LEBERWURST X 250 GRS.": "1948.720",
-            "MILAN FELA": "11202.890",
-            "MILAN TIVOLI": "9286.130",
-            "PALETA PALADINI X6KG": "10286.900",
-            "PATE PALADINI": "699.660",
-            "PICADILLO PALADINI": "680.230",
-            "QUESO DE CERDO PALADINI": "6563.250",
-            "VIENA X 6 FELA": "1087.320",
-            "VIENA X 6 PALDINI": "1652.680",
-            "MORTADELA FAM. PALADINI": "2921.470",
-            "MORTADELA X 2.5KG PALADINI": "8698.780",
-            "MORTADELA X4.5KG PALADINI": "7744.850"
+            "LEBERWURST X 250 GRS.": "2020.400",
+            "MILAN FELA": "11284.710",
+            "MILAN TIVOLI": "9242.610",
+            "PALETA PALADINI X6KG": "9809.860",
+            "PATE PALADINI": "764.090",
+            "PICADILLO PALADINI": "742.870",
+            "QUESO DE CERDO PALADINI": "7061.830",
+            "VIENA X 6 FELA": "1127.310",
+            "VIENA X 6 PALDINI": "1512.830",
+            "MORTADELA FAM. PALADINI": "2907.780",
+            "MORTADELA X 2.5KG PALADINI": "9018.740",
+            "MORTADELA X4.5KG PALADINI": "8200.580"
         },
         "Las Piaras": {},
         "Punta del agua": {},
@@ -259,10 +259,10 @@
             "MANI REPELADO CRIS JOR": "4654.250"
         },
         "Fepa": {
-            "MATAMBRE EL CRIOLLITO": "14405.730",
-            "MATAMBRE FEPA": "10460.620",
+            "MATAMBRE EL CRIOLLITO": "14520.980",
+            "MATAMBRE FEPA": "10539.870",
             "MATAMBRE PREMIUN EL CRIOLLITO": "16282.220",
-            "POLLO FEPA": "9984.620"
+            "POLLO FEPA": "10060.260"
         },
         "Chiro": {
             "ACEITE DE OLIVA X 500": "10223.540",
@@ -293,8 +293,8 @@
             "CEREAL C/CHOC.X 700": "10301.530",
             "CEREAL CON CHOCOLATE X 80 GRS.": "1143.460",
             "CONFITES DE MANI X 150 GRS.": "894.110",
-            "CONITOS CON QUESO X 800": "9086.300",
-            "COPETIN X 300": "1530.200",
+            "CONITOS CON QUESO X 800": "10076.860",
+            "COPETIN X 300": "1542.530",
             "GARRAPIÑADA C/CH.X 80 GRS.": "747.280",
             "GARRAPIÑADA DE ALMENDRA X 80 G": "1725.440",
             "GARRAPIÑADA DE MANI X 80 GRS.": "472.780",
@@ -350,7 +350,7 @@
         },
         "Carrité": {
             "MICROFIBRA PAÑO 30X40": "1308.010",
-            "ROLLO DE COCINA X 6": "1423.010"
+            "ROLLO DE COCINA X 6": "1437.480"
         },
         "Campo Grande": {},
         "Inalpa": {
@@ -400,11 +400,10 @@
             "QUESO RALLADO X 40 GRS.LA QUES": "582.640"
         },
         "Mix Dietetica": {
-            "MIX CRIOLLO X 10": "9215.650",
+            "MIX CRIOLLO X 10": "9215.600",
             "MIX EUROPEO X 10": "12084.660",
-            "MIX FRUTOS SECOS X 10": "20865.620",
-            "MIX FUERTE X 10": "9563.390",
-            "MIX P/ENSALADA X 1": "5868.450"
+            "MIX FRUTOS SECOS X 10": "21161.190",
+            "MIX FUERTE X 10": "9904.950"
         },
         "Buenas Sierras": {
             "PALETA DE CERDO BUENAS SIERRAS": "5130.010",
@@ -421,10 +420,10 @@
         "Lopardo": {
             "CASERITA LOPARDO": "10218.850",
             "JAMON COCIDO C/C LOPARDO": "6173.990",
-            "JAMON NATURAL LOPARDO": "10123.990",
+            "JAMON NATURAL LOPARDO": "10963.600",
             "LONGA NAP.LOPARDO": "10218.850",
             "PALETA COCIDA DON SILVIO": "4738.050",
-            "PANCETA AHUMADA LOPARDO": "10853.980",
+            "PANCETA AHUMADA LOPARDO": "10963.600",
             "QUESO DE CERDO LOPARDO": "5013.500",
             "SALAMIN LOPARDO": "11309.760"
         },
@@ -452,7 +451,7 @@
             "AZUCAR LA DULCITA X 1 KG": "943.860",
             "AZUCAR LA TIKAY X1": "943.860",
             "BOLSAS 50X70": "2152.420",
-            "BOLSAS ZELNOVA 45 X 60": "450.060",
+            "BOLSAS ZELNOVA 45 X 60": "468.820",
             "BOLSAS ZELNOVA 60X90": "1059.520",
             "BOLSAS ZELNOVA 80 X 110": "2027.630",
             "BOLSAS ZELNOVA 80X110": "2062.780",
@@ -464,7 +463,7 @@
             "CALDO DE GALLINA": "468.820",
             "CALDO MAGGI WILDE X2": "390.690",
             "CALDO VERDURA KNORR X 2": "482.160",
-            "CAPUCHINO VIRGINIA SOBRE": "4089.580",
+            "CAPUCHINO VIRGINIA SOBRE": "4795.580",
             "CHOCOLINO X 180": "1816.890",
             "CILO ANILLO LIMON X400": "1375.870",
             "CILO ANILLO VAINILLA X400": "1375.870",
@@ -568,43 +567,86 @@
     },
     "cambios": {
         "Quesada": {
-            "ROMANITO QUESADA": "11704.720",
-            "SARDO FRESCO QUESADA": "9224.380"
+            "SARDO QUESADA": "11267.290"
         },
-        "Productos W": {
-            "BONDIOLA W": "12607.500"
+        "Dulcor": {
+            "BATATA C/GUINDAS": "19357.270",
+            "MERMELADA DULCOR FRASCO FRUTIL": "1798.340",
+            "MERMELADA DULCOR FRASCO DURAZN": "1406.010",
+            "MERMELADA DULCOR FRASCO DAMASC": "1406.010"
+        },
+        "Aromas y Sabores": {
+            "ADOBO X25GR": "279.150",
+            "PIMENTON X25GR": "331.810",
+            "PROVENZAL X25GR": "379.530",
+            "ADOBO P/PIZZAS X 1 KG": "4691.520",
+            "OREGANO X 1 KG": "4313.360",
+            "PIMENTON X 1 KG": "6521.490",
+            "PROVENZAL X 1 KG": "5062.000",
+            "COCO RALLADO X1KG AYS": "6661.350",
+            "PIM BLANCA MOLIDA X 1 KG": "11969.530",
+            "EXTRACTO DE VAIN AYS X100CC": "522.700",
+            "AZUCAR IMPALPABLE X1KG AYS": "3810.300",
+            "FECULA DE MAIZ AYS X1KG": "2336.740"
+        },
+        "Calchaqui": {
+            "MORTADELA BOCHA CALCHAQUI": "7403.530",
+            "MORTADELA CAÑON CALCHAQUI": "5950.560",
+            "MORTADELA GIG. CALCHAQUI": "8068.890",
+            "MORTADELA C/PIST CALCHAQUI": "11629.780",
+            "LECHE LARGA VIDA ILOLAY": "1420.440"
+        },
+        "Paladini": {
+            "MORTADELA X4.5KG PALADINI": "7593.130",
+            "MORTADELA FAM. PALADINI": "2692.380",
+            "MORTADELA X 2.5KG PALADINI": "8350.680",
+            "VIENA X 6 FELA": "1043.810",
+            "PALETA PALADINI X6KG": "9083.200",
+            "VIENA X 6 PALDINI": "1440.780",
+            "LEBERWURST X 250 GRS.": "1870.730",
+            "MILAN TIVOLI": "8557.970",
+            "MILAN FELA": "10448.810",
+            "BONDIOLA PALADINI": "23631.640",
+            "QUESO DE CERDO PALADINI": "6419.840",
+            "PATE PALADINI": "707.490",
+            "PICADILLO PALADINI": "707.490"
         },
         "Cris Jor": {
             "MANI REPELADO CRIS JOR": "4309.490"
         },
-        "Chiro": {
-            "SACHET X 100 CHIRO": "655.200"
+        "Fepa": {
+            "MATAMBRE FEPA": "9759.150",
+            "POLLO FEPA": "9315.050",
+            "MATAMBRE EL CRIOLLITO": "13200.890"
         },
-        "Cavade": {
-            "ACEITE GIRASOL X 900": "1810.400"
-        },
-        "Don Luis": {
-            "PECHERA DON LUIS": "11316.010",
-            "LONGA CALABRESA DON LUIS": "11316.010",
-            "SALAME DON LUIS": "11684.990"
+        "Amanecer": {
+            "COPETIN X 300": "1415.170",
+            "CONITOS CON QUESO X 800": "9597.010"
         },
         "Carrité": {
-            "MICROFIBRA PAÑO 30X40": "1200.010"
+            "ROLLO DE COCINA X 6": "1331.000"
         },
         "Don Alejandro Luoni": {
-            "PANCETA ARROLLADA": "15080.400",
             "CRUDO ARTESANAL DON ALEJANDRO": "20585.000"
         },
         "La Quesera": {
             "GRUYERE CUÑA LA QUESERA": "21678.920"
         },
+        "Mix Dietetica": {
+            "MIX CRIOLLO X 10": "8532.970",
+            "MIX FRUTOS SECOS X 10": "19593.700",
+            "MIX FUERTE X 10": "9171.260",
+            "MIX EUROPEO X 10": "11189.500"
+        },
+        "Lopardo": {
+            "PANCETA AHUMADA LOPARDO": "9966.920",
+            "JAMON NATURAL LOPARDO": "9966.920",
+            "SALAMIN LOPARDO": "10281.600"
+        },
         "OTRAS COMPRAS": {
-            "FIDEO MOSTACHOL SOL PAMPEANO": "936.360",
-            "BOLSAS ZELNOVA 60X90": "1009.070",
-            "FIDEO TIRABUZON SOL PAMPEANO X": "936.360",
-            "ESPONJA DORADA": "1177.620",
-            "FIDEO CELENTANO SOL PAMP": "936.360"
+            "BOLSAS ZELNOVA 45 X 60": "446.490",
+            "CAPUCHINO VIRGINIA SOBRE": "4567.220"
         }
     },
-    "fecha": "05-09-2025 17:45:28"
+    "fecha": "12-09-2025 11:51:58"
 }
