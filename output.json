@@ -51,28 +51,28 @@
             "MANTECA X200GR CLUCELAT": "1945.860"
         },
         "Emezeta": {
-            "BARRIL MZ": "6665.130",
-            "BONDIOLA AL VACIO 1/2 MZ": "16144.010",
-            "JAMON BOLON 3783": "5892.690",
-            "LOMO AHUMADO EMEZETA": "9964.480",
-            "MILAN CORTO MZ": "8929.840",
-            "MILANCITO EMEZETA": "10179.610",
-            "PALETA CUADRADA EMEZETA": "6075.140",
-            "PERNIL MINI EMEZETA": "6550.770",
-            "FIAMBRE DE JAMON COCIDO GRANDE": "6503.050",
-            "JAMON NATIVO EMEZETA": "9668.710",
-            "PALETA MINI EMEZETA": "6024.300",
-            "MORTADELA EMEZETA": "4734.170",
-            "SALCHICHON C/JAMON EMEZETA": "4237.940",
-            "SALCHICHON PRIMAVERA EMEZETA": "4237.940",
-            "BASTON EMEZETA": "11074.500",
-            "MILAN LARGO EMEZETA": "8945.910",
-            "BONDIOLA EMEZETA": "15730.640",
-            "CRUDO EMEZETA": "19945.220",
-            "LOMO CANADIENSE EMEZETA": "11643.840",
-            "PANCETA AHUM C/C EMEZETA": "12605.530",
-            "PANCETA SALADA EMEZETA": "12469.340",
-            "PANCETA TIERNIZADA EMEZETA": "6483.850"
+            "BARRIL MZ": "6998.390",
+            "BONDIOLA AL VACIO 1/2 MZ": "16951.220",
+            "JAMON BOLON 3783": "6187.320",
+            "LOMO AHUMADO EMEZETA": "10462.700",
+            "MILAN CORTO MZ": "9376.330",
+            "MILANCITO EMEZETA": "10688.600",
+            "PALETA CUADRADA EMEZETA": "6378.890",
+            "PERNIL MINI EMEZETA": "6878.310",
+            "FIAMBRE DE JAMON COCIDO GRANDE": "6828.200",
+            "JAMON NATIVO EMEZETA": "10152.150",
+            "PALETA MINI EMEZETA": "6325.520",
+            "MORTADELA EMEZETA": "4970.890",
+            "SALCHICHON C/JAMON EMEZETA": "4449.840",
+            "SALCHICHON PRIMAVERA EMEZETA": "4449.840",
+            "BASTON EMEZETA": "11628.230",
+            "MILAN LARGO EMEZETA": "9393.190",
+            "BONDIOLA EMEZETA": "16831.340",
+            "CRUDO EMEZETA": "21288.630",
+            "LOMO CANADIENSE EMEZETA": "12226.020",
+            "PANCETA AHUM C/C EMEZETA": "13235.790",
+            "PANCETA SALADA EMEZETA": "13092.810",
+            "PANCETA TIERNIZADA EMEZETA": "6808.040"
         },
         "Productos W": {
             "BONDIOLA W": "15077.340",
@@ -568,50 +568,74 @@
     },
     "cambios": {
         "Peipo": {
-            "PALITOS SABOR QUESO X 500": "4842.070"
+            "PALITOS SABOR QUESO X 500": "4401.880"
         },
         "Quesada": {
-            "BARRA QUESADA": "8490.220",
-            "CREMOSO 1/2 QUESADA": "6701.750"
+            "BARRA QUESADA": "7861.310",
+            "CREMOSO 1/2 QUESADA": "6148.400"
+        },
+        "Emezeta": {
+            "CRUDO EMEZETA": "19711.700",
+            "JAMON NATIVO EMEZETA": "9400.140",
+            "FIAMBRE DE JAMON COCIDO GRANDE": "6322.410",
+            "PALETA MINI EMEZETA": "5911.700",
+            "LOMO CANADIENSE EMEZETA": "11320.390",
+            "MILAN LARGO EMEZETA": "8617.610",
+            "BASTON EMEZETA": "10668.100",
+            "BONDIOLA EMEZETA": "15584.570",
+            "PANCETA AHUM C/C EMEZETA": "12255.360",
+            "PANCETA TIERNIZADA EMEZETA": "6303.740",
+            "PANCETA SALADA EMEZETA": "12122.970",
+            "SALCHICHON C/JAMON EMEZETA": "4082.420",
+            "SALCHICHON PRIMAVERA EMEZETA": "4082.420",
+            "MORTADELA EMEZETA": "4560.440",
+            "MILANCITO EMEZETA": "9896.840",
+            "JAMON BOLON 3783": "5729.000",
+            "LOMO AHUMADO EMEZETA": "9687.700",
+            "PALETA CUADRADA EMEZETA": "5906.390",
+            "PERNIL MINI EMEZETA": "6310.370",
+            "MILAN CORTO MZ": "8602.130",
+            "BARRIL MZ": "6362.170",
+            "BONDIOLA AL VACIO 1/2 MZ": "16144.010"
         },
         "Dulcor": {
-            "DULCE DE MEMBRILLO": "12083.010",
-            "DULCE DE BATATA": "9811.160",
-            "DULCE DE BATATA C/CHOC": "9811.160",
-            "MERMELADA POTE DURAZNO": "1081.680"
+            "DULCE DE MEMBRILLO": "11085.330",
+            "DULCE DE BATATA": "9001.070",
+            "DULCE DE BATATA C/CHOC": "9001.070",
+            "MERMELADA POTE DURAZNO": "1001.550"
         },
         "Aliger": {
-            "SARDO ALIGER": "9240.010"
+            "SARDO ALIGER": "8400.000"
         },
         "Aromas y Sabores": {
-            "COCO RALLADO X1KG AYS": "9658.960"
+            "COCO RALLADO X1KG AYS": "6661.350"
         },
         "Paladini": {
-            "VIENA X 6 FELA": "1101.560",
-            "VIENA X 6 PALDINI": "1644.940",
-            "FIAMBRE DE PALETA PALADINI X 4": "9058.510",
-            "BONDIOLA CONGELADA PALADINI": "9512.260"
+            "VIENA X 6 FELA": "1019.960",
+            "VIENA X 6 PALDINI": "1566.600",
+            "FIAMBRE DE PALETA PALADINI X 4": "8310.560",
+            "BONDIOLA CONGELADA PALADINI": "8647.510"
         },
         "Amanecer": {
-            "COPETIN X 300": "1619.660",
-            "CONITOS CON QUESO X 800": "10665.710"
+            "COPETIN X 300": "1485.930",
+            "CONITOS CON QUESO X 800": "10157.820"
         },
         "Carrité": {
-            "MICROFIBRA PAÑO 30X40": "1446.540"
+            "MICROFIBRA PAÑO 30X40": "1327.100"
         },
         "Mix Dietetica": {
-            "MIX FUERTE X 10": "9904.950"
+            "MIX FUERTE X 10": "9171.260"
         },
         "OTRAS COMPRAS": {
-            "SAVORA SACHET X60": "703.230",
-            "CALDO VERDURA KNORR X 2": "495.930",
-            "JUGO DE LIMON MINERVA X 250": "1389.580",
-            "CHOCOLINO X 180": "1868.810",
-            "BOLSAS ZELNOVA 60X90": "1089.800",
-            "FIDEO TIRABUZON SOL PAMPEANO X": "748.120",
-            "TE TARAGUI COMUN": "764.020",
-            "FIDEO CELENTANO SOL PAMP": "749.180"
+            "SAVORA SACHET X60": "651.140",
+            "CALDO VERDURA KNORR X 2": "459.200",
+            "JUGO DE LIMON MINERVA X 250": "1286.640",
+            "CHOCOLINO X 180": "1730.370",
+            "BOLSAS ZELNOVA 60X90": "1009.070",
+            "FIDEO TIRABUZON SOL PAMPEANO X": "712.500",
+            "TE TARAGUI COMUN": "727.630",
+            "FIDEO CELENTANO SOL PAMP": "713.510"
         }
     },
-    "fecha": "03-10-2025 16:10:26"
+    "fecha": "04-10-2025 18:29:36"
 }
