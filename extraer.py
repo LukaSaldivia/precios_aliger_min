@@ -2,8 +2,8 @@ import re
 import json
 from datetime import datetime
 
-input_file = 'min.rtf'
-changes_file = 'cambios.rtf'
+input_file = 'Subgru.rtf'
+changes_file = 'Cambio a Listas de Precios.rtf'
 output_file_json = 'output.json'
 today = datetime.now()
 
@@ -68,4 +68,8 @@ with open(changes_file, 'r') as infile:
 
 # Guardar en JSON
 with open(output_file_json, 'w', encoding='utf-8') as outfile_json:
+    json.dump(data, outfile_json, indent=4, ensure_ascii=False)
+
+# Guardar en JSON en ventas_min
+with open(f'../ventas_min/{output_file_json}', 'w', encoding='utf-8') as outfile_json:
     json.dump(data, outfile_json, indent=4, ensure_ascii=False)
