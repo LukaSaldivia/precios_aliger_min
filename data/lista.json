@@ -1,5 +1,5 @@
 {
-    "FECHA": "07-11-2025",
+    "FECHA": "08-11-2025",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X500",
@@ -2392,6 +2392,1152 @@
             "peso_promedio": 0.0
         }
     },
+    "OTRAS COMPRAS": {
+        "162": {
+            "nombre_articulo": "ALGODON DONCELLA X 70 GRS.",
+            "precio": 664.4835999999999,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "167": {
+            "nombre_articulo": "PALILLOS IMPACTO",
+            "precio": 379.8311,
+            "modificado": false,
+            "factor": "16",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "168": {
+            "nombre_articulo": "VIRULANA ROLLO",
+            "precio": 1125.1548,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "169": {
+            "nombre_articulo": "ROLLO DE COCINA 3X40 COLOSO",
+            "precio": 1492.5955,
+            "modificado": false,
+            "factor": "8",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "170": {
+            "nombre_articulo": "BOLSAS ZELNOVA 45 X 60",
+            "precio": 468.81449999999995,
+            "modificado": false,
+            "factor": "10",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "171": {
+            "nombre_articulo": "BOLSAS ZELNOVA 80 X 110",
+            "precio": 2027.6333,
+            "modificado": false,
+            "factor": "12",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "172": {
+            "nombre_articulo": "EXTRACTO VAINILLA X 28 CC",
+            "precio": 600.9223,
+            "modificado": false,
+            "factor": "12",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "173": {
+            "nombre_articulo": "AZUCAR LA DULCITA X 1 KG",
+            "precio": 943.8604999999999,
+            "modificado": false,
+            "factor": "10",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "174": {
+            "nombre_articulo": "SAVORA SACHET X60",
+            "precio": 703.2277999999999,
+            "modificado": false,
+            "factor": "30",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "175": {
+            "nombre_articulo": "SAVORA X 250 D/P",
+            "precio": 1075.932,
+            "modificado": false,
+            "factor": "12",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "176": {
+            "nombre_articulo": "SALSA GOLF NATURA X 250",
+            "precio": 1533.4208999999998,
+            "modificado": false,
+            "factor": "12",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "177": {
+            "nombre_articulo": "KETCHUP HELLMAN´S X 250 GRS.",
+            "precio": 1726.8030999999999,
+            "modificado": false,
+            "factor": "12",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "179": {
+            "nombre_articulo": "CAFE LA VIRGINIA SAQUITOS",
+            "precio": 4795.5809,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "180": {
+            "nombre_articulo": "CAPUCHINO VIRGINIA SOBRE",
+            "precio": 4932.056799999999,
+            "modificado": true,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "181": {
+            "nombre_articulo": "CALDO VERDURA KNORR X 2",
+            "precio": 498.278,
+            "modificado": false,
+            "factor": "24",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "182": {
+            "nombre_articulo": "PURE MAROLIO X 520",
+            "precio": 664.1569,
+            "modificado": false,
+            "factor": "24",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "183": {
+            "nombre_articulo": "LEVADURA LEVEX 2 X 25",
+            "precio": 1063.711,
+            "modificado": false,
+            "factor": "25",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "184": {
+            "nombre_articulo": "QUESO DE CERDO EL TRIUNFO",
+            "precio": 7491.8844,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "K",
+            "peso_promedio": 1.5
+        },
+        "185": {
+            "nombre_articulo": "RALLADO PAULINA X 40 GRS.",
+            "precio": 1653.6223,
+            "modificado": false,
+            "factor": "24",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "186": {
+            "nombre_articulo": "MARGARINA MASA PILON",
+            "precio": 2699.4858,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "K",
+            "peso_promedio": 2.5
+        },
+        "187": {
+            "nombre_articulo": "YERBA MATE TARAGUI X 500",
+            "precio": 1907.6738999999998,
+            "modificado": false,
+            "factor": "10",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "188": {
+            "nombre_articulo": "YERBA MATE ANDRESITO",
+            "precio": 1523.7046,
+            "modificado": false,
+            "factor": "10",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "189": {
+            "nombre_articulo": "ACEITE NATURA X900",
+            "precio": 2103.6455,
+            "modificado": false,
+            "factor": "15",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "191": {
+            "nombre_articulo": "JABON SEISEME X 300",
+            "precio": 1556.1083999999998,
+            "modificado": false,
+            "factor": "50",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "192": {
+            "nombre_articulo": "MAYONESA MENOYO X 100",
+            "precio": 375.705,
+            "modificado": false,
+            "factor": "20",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "193": {
+            "nombre_articulo": "FIDEO NIDO",
+            "precio": 1217.7077,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "194": {
+            "nombre_articulo": "HARINA P/PIZZA PUREZA",
+            "precio": 1448.3821,
+            "modificado": false,
+            "factor": "10",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "195": {
+            "nombre_articulo": "JUGO DE LIMON MINERVA X 250",
+            "precio": 1456.4286,
+            "modificado": false,
+            "factor": "12",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "197": {
+            "nombre_articulo": "NESQUIK X 180",
+            "precio": 1953.3998000000001,
+            "modificado": false,
+            "factor": "18",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "198": {
+            "nombre_articulo": "HARINA COMUN 0000 PUREZA",
+            "precio": 1102.2374,
+            "modificado": false,
+            "factor": "10",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "199": {
+            "nombre_articulo": "LECHE ENTERA ILOLAY",
+            "precio": 1659.4666,
+            "modificado": false,
+            "factor": "12",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "200": {
+            "nombre_articulo": "TOMATE X8 COUPER",
+            "precio": 10330.846899999999,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "202": {
+            "nombre_articulo": "CANTIMPALO PARA MAQUINA",
+            "precio": 9757.137499999999,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "K",
+            "peso_promedio": 1.5
+        },
+        "203": {
+            "nombre_articulo": "MORRON X 185",
+            "precio": 2670.9419,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "210": {
+            "nombre_articulo": "JABON LIQUIDO ZELNOVA",
+            "precio": 7813.3088,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "211": {
+            "nombre_articulo": "ALA DETERGENTE",
+            "precio": 2051.071,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "212": {
+            "nombre_articulo": "LAVANDINA AYUDIN 1L",
+            "precio": 1129.0631,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "215": {
+            "nombre_articulo": "REJILLA SUIZA 34X38",
+            "precio": 918.8860999999999,
+            "modificado": false,
+            "factor": "48",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "216": {
+            "nombre_articulo": "PATE ECONOMICO",
+            "precio": 651.7423,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "217": {
+            "nombre_articulo": "MAYONESA NATURA X 250",
+            "precio": 1275.9692,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "218": {
+            "nombre_articulo": "TE COMUN LA VIRGINIA",
+            "precio": 859.4993000000001,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "219": {
+            "nombre_articulo": "OREGANO ALICANTE X 25",
+            "precio": 990.3729,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "220": {
+            "nombre_articulo": "FIDEO GUISERO SOL PAMPEANO",
+            "precio": 922.5160999999999,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "221": {
+            "nombre_articulo": "YERBA CBSE TRADICIONAL X500",
+            "precio": 1810.4624999999999,
+            "modificado": false,
+            "factor": "12",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "223": {
+            "nombre_articulo": "FIDEO MOSTACHOL SOL PAMPEANO",
+            "precio": 983.1733999999999,
+            "modificado": false,
+            "factor": "12",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "224": {
+            "nombre_articulo": "YERBA PLAYADITO X 500",
+            "precio": 2438.8639,
+            "modificado": false,
+            "factor": "10",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "226": {
+            "nombre_articulo": "JABON EN POLVO ALA ECOLAVADO X400",
+            "precio": 1369.3328000000001,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "227": {
+            "nombre_articulo": "HARINA LEUDANTE PUREZA",
+            "precio": 1536.8694,
+            "modificado": true,
+            "factor": "10",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "228": {
+            "nombre_articulo": "ARROZ X 500",
+            "precio": 1092.1339,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "229": {
+            "nombre_articulo": "HARINA COMUN 0000 U/REF PUREZA",
+            "precio": 1074.6009999999999,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "230": {
+            "nombre_articulo": "POROTOS MOLTO X 300",
+            "precio": 908.7825999999999,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "232": {
+            "nombre_articulo": "HARINA COMUN 000 PUREZA",
+            "precio": 883.0459,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "233": {
+            "nombre_articulo": "PIMENTON ALICANTE X 25",
+            "precio": 641.9534,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "235": {
+            "nombre_articulo": "GALLETITAS LA PROVIDENCIA X 3",
+            "precio": 1113.2121,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "236": {
+            "nombre_articulo": "DON SATUR BIZC. NEGRITOS",
+            "precio": 748.506,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "237": {
+            "nombre_articulo": "DON SATUR BIZC. GRASA",
+            "precio": 714.8438,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "238": {
+            "nombre_articulo": "CHOCOLINO X 180",
+            "precio": 1868.8087,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "239": {
+            "nombre_articulo": "YERBA AMANDA",
+            "precio": 1715.0055999999997,
+            "modificado": false,
+            "factor": "10",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "247": {
+            "nombre_articulo": "BOLSAS ZELNOVA 60X90",
+            "precio": 1089.7985999999999,
+            "modificado": false,
+            "factor": "10",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "249": {
+            "nombre_articulo": "JARDINERA X 350",
+            "precio": 815.2737999999999,
+            "modificado": false,
+            "factor": "24",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "251": {
+            "nombre_articulo": "SAL GRUESA 2 ANCLAS X 500",
+            "precio": 1159.6035,
+            "modificado": false,
+            "factor": "20",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "252": {
+            "nombre_articulo": "SAL FINA CELUSAL X 500",
+            "precio": 1036.0141,
+            "modificado": false,
+            "factor": "24",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "253": {
+            "nombre_articulo": "FIDEO TALLARIN SOL PAMPEANO X 500",
+            "precio": 748.1188,
+            "modificado": false,
+            "factor": "20",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "254": {
+            "nombre_articulo": "LIMP LIQ HEROO X900 PINO SILV",
+            "precio": 781.3575,
+            "modificado": false,
+            "factor": "12",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "256": {
+            "nombre_articulo": "FIDEO TIRABUZON SOL PAMPEANO X500G",
+            "precio": 748.1188,
+            "modificado": false,
+            "factor": "12",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "257": {
+            "nombre_articulo": "VIÑA DE BALBO TINTO",
+            "precio": 2543.7103999999995,
+            "modificado": false,
+            "factor": "15",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "258": {
+            "nombre_articulo": "TE TARAGUI MANZANILLA",
+            "precio": 1713.4083999999998,
+            "modificado": false,
+            "factor": "6",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "259": {
+            "nombre_articulo": "TE TARAGUI S/ENSOBRAR",
+            "precio": 732.8365,
+            "modificado": false,
+            "factor": "10",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "260": {
+            "nombre_articulo": "TE TAGARAGUI BOLDO",
+            "precio": 1656.9013999999997,
+            "modificado": false,
+            "factor": "6",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "261": {
+            "nombre_articulo": "CILO ANILLO LIMON X400",
+            "precio": 1375.8667999999998,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "262": {
+            "nombre_articulo": "CILO ANILLO VAINILLA X400",
+            "precio": 1375.8667999999998,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "263": {
+            "nombre_articulo": "GALLETITA PEPAS X400",
+            "precio": 1064.6185,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "264": {
+            "nombre_articulo": "LECHE ENTERA VERONICA LV",
+            "precio": 1722.9553,
+            "modificado": false,
+            "factor": "12",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "267": {
+            "nombre_articulo": "TE TARAGUI COMUN",
+            "precio": 764.0182,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "270": {
+            "nombre_articulo": "MERMELADA CIRUELA",
+            "precio": 1476.4057,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "271": {
+            "nombre_articulo": "VINAGRE MANZANA X 500ML",
+            "precio": 1758.0574,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "272": {
+            "nombre_articulo": "ESPONJA DORADA",
+            "precio": 1236.499,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "273": {
+            "nombre_articulo": "ROLLO DE COCINA FELPITA",
+            "precio": 1492.6197,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "274": {
+            "nombre_articulo": "MAIZ PISINGALLO",
+            "precio": 1172.0423,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "275": {
+            "nombre_articulo": "MATAMBRE TRIUNFO",
+            "precio": 11834.7075,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "K",
+            "peso_promedio": 1.2
+        },
+        "284": {
+            "nombre_articulo": "ROLLO DE COCINA CARRITE 12X200",
+            "precio": 1423.0084,
+            "modificado": false,
+            "factor": "6",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "285": {
+            "nombre_articulo": "YERBA UNION X500",
+            "precio": 2138.7113,
+            "modificado": false,
+            "factor": "10",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "286": {
+            "nombre_articulo": "FIDEO CELENTANO SOL PAMP",
+            "precio": 749.1836,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "287": {
+            "nombre_articulo": "FIDEO SPAGHETTI SOL PAMP",
+            "precio": 838.2516999999999,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "289": {
+            "nombre_articulo": "ARROZ DON MARCOS X500",
+            "precio": 1016.7266999999999,
+            "modificado": false,
+            "factor": "10",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "290": {
+            "nombre_articulo": "VAINILLA POZO",
+            "precio": 746.9450999999999,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "291": {
+            "nombre_articulo": "TE LA VIRGINIA MANZANILLA",
+            "precio": 1250.2204,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "292": {
+            "nombre_articulo": "DON SATUR BIZC. AGRIDULCE",
+            "precio": 786.1249,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "293": {
+            "nombre_articulo": "ESPONJA AMARILLA",
+            "precio": 1036.0988,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "301": {
+            "nombre_articulo": "YERBA TARAGÜI X 500 SIN PALO",
+            "precio": 2962.5156,
+            "modificado": false,
+            "factor": "10",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "302": {
+            "nombre_articulo": "MAYONESA NATURA X 125",
+            "precio": 621.4197,
+            "modificado": false,
+            "factor": "20",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "303": {
+            "nombre_articulo": "PURE DE PAPAS MAGGI X 125",
+            "precio": 1918.3945,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "304": {
+            "nombre_articulo": "MAYONESA MENOYO X 250",
+            "precio": 591.8352,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "305": {
+            "nombre_articulo": "TE TARAGÜI PLACERES VERDE HIGO X 25",
+            "precio": 1950.6652,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "307": {
+            "nombre_articulo": "JABON EN POLVO ZORRO",
+            "precio": 859.4993000000001,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "311": {
+            "nombre_articulo": "TRAPO DE PISO",
+            "precio": 1114.3011,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "312": {
+            "nombre_articulo": "MAYONESA MENOYO 2.700CC",
+            "precio": 6940.1123,
+            "modificado": false,
+            "factor": "3",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "313": {
+            "nombre_articulo": "REJILLA PARA COCHE",
+            "precio": 753.1524000000001,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "316": {
+            "nombre_articulo": "FIBROESPONJA",
+            "precio": 418.38169999999997,
+            "modificado": false,
+            "factor": "12",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "317": {
+            "nombre_articulo": "CAFE INSTANTANEO LA VIRGINIA",
+            "precio": 1983.5287999999998,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "327": {
+            "nombre_articulo": "COCA COLA X500",
+            "precio": 1386.0187,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "328": {
+            "nombre_articulo": "HARINA 000 CAÑUELA X1KG",
+            "precio": 701.5822000000001,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "329": {
+            "nombre_articulo": "DURAZNO ELISA EN MIT X800",
+            "precio": 1644.2811000000002,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "330": {
+            "nombre_articulo": "LIMPIADOR POETT",
+            "precio": 1613.5108,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "339": {
+            "nombre_articulo": "FIDEO FUSSARELLO",
+            "precio": 1364.0209,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "344": {
+            "nombre_articulo": "ARROZ X1KG",
+            "precio": 2032.3523,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "355": {
+            "nombre_articulo": "AJI MOLIDO CENTURION",
+            "precio": 752.0633999999999,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "358": {
+            "nombre_articulo": "CAJA NAVIDEÑA Nº4",
+            "precio": 44467.5,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "359": {
+            "nombre_articulo": "ACEITE MOLTO GIRASOL X900",
+            "precio": 2188.406,
+            "modificado": false,
+            "factor": "12",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "367": {
+            "nombre_articulo": "LIMON MINERVA X500",
+            "precio": 2207.3424999999997,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "368": {
+            "nombre_articulo": "ESPONJA ACERO SED METAL",
+            "precio": 726.0604999999999,
+            "modificado": false,
+            "factor": "12",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "376": {
+            "nombre_articulo": "INSECTICIDA FUYI",
+            "precio": 4131.424,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "377": {
+            "nombre_articulo": "ESCOBILLON MAPUCHE 4H EC",
+            "precio": 2224.0647,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "378": {
+            "nombre_articulo": "FIDEO RIGATTIS SOL PAMP",
+            "precio": 838.2153999999999,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "379": {
+            "nombre_articulo": "ACEITE MOLINO CAÑUELAS",
+            "precio": 2693.4963000000002,
+            "modificado": false,
+            "factor": "12",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "384": {
+            "nombre_articulo": "ARROZ AMANDA",
+            "precio": 1073.0764,
+            "modificado": false,
+            "factor": "20",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "392": {
+            "nombre_articulo": "YERBA MAÑANITA",
+            "precio": 2005.9985,
+            "modificado": false,
+            "factor": "10",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "403": {
+            "nombre_articulo": "TRAPO GRIS B-AIRE/JULIET",
+            "precio": 879.0287,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "404": {
+            "nombre_articulo": "TOCADOR PLUSBELLE",
+            "precio": 887.8133,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "405": {
+            "nombre_articulo": "NATURA SALSA GOLF X125",
+            "precio": 1039.2085,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "406": {
+            "nombre_articulo": "JUGO BAGGIO X250",
+            "precio": 502.02899999999994,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "407": {
+            "nombre_articulo": "LENTEJAS LATA MAROLIO X300",
+            "precio": 1458.4251,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "411": {
+            "nombre_articulo": "YERBA CBSE LIMON X500",
+            "precio": 1810.4624999999999,
+            "modificado": false,
+            "factor": "12",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "412": {
+            "nombre_articulo": "YERBA CBSE NARANJA X500",
+            "precio": 1810.4624999999999,
+            "modificado": false,
+            "factor": "12",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "413": {
+            "nombre_articulo": "TE LA VIRGINIA BOLDO",
+            "precio": 1836.1870999999999,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "414": {
+            "nombre_articulo": "CALDO MAGGI WILDE X2",
+            "precio": 390.6848,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "415": {
+            "nombre_articulo": "SAVORA MONOPORCION",
+            "precio": 12992.4718,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "416": {
+            "nombre_articulo": "CILO PEPAS X400",
+            "precio": 1215.6264999999999,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "418": {
+            "nombre_articulo": "BOLSAS 50X70",
+            "precio": 2152.4206,
+            "modificado": false,
+            "factor": "24",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "419": {
+            "nombre_articulo": "AZUCAR LA TIKAY X1",
+            "precio": 943.8604999999999,
+            "modificado": false,
+            "factor": "10",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "420": {
+            "nombre_articulo": "LIMP LIQ HEROE X900 BRISA MAR",
+            "precio": 781.3575,
+            "modificado": false,
+            "factor": "12",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "428": {
+            "nombre_articulo": "CABO DE MADERA CON ROSCA",
+            "precio": 1332.2221,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "429": {
+            "nombre_articulo": "SECADOR DE GOMA X40",
+            "precio": 1293.1512,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "443": {
+            "nombre_articulo": "BROCHES DE PELO PLASTICO",
+            "precio": 1132.9714,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "446": {
+            "nombre_articulo": "PICADILLO",
+            "precio": 645.5954999999999,
+            "modificado": false,
+            "factor": "24",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "460": {
+            "nombre_articulo": "AZUCAR LA CAMPECHANA",
+            "precio": 943.8604999999999,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "472": {
+            "nombre_articulo": "LIMON MINERVA X500",
+            "precio": 2207.3424999999997,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "482": {
+            "nombre_articulo": "FOSFOROS 3 PATITOS",
+            "precio": 909.3512999999999,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "483": {
+            "nombre_articulo": "JABON TIRA PATRICIA 3X80",
+            "precio": 11687.874,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "485": {
+            "nombre_articulo": "BOLSAS ZELNOVA 80X110",
+            "precio": 2062.7837999999997,
+            "modificado": false,
+            "factor": "10",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "489": {
+            "nombre_articulo": "CALDO DE GALLINA",
+            "precio": 468.81449999999995,
+            "modificado": false,
+            "factor": "24",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "493": {
+            "nombre_articulo": "REJILLA COMUN",
+            "precio": 596.3363999999999,
+            "modificado": false,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "517": {
+            "nombre_articulo": "CILO CON CHIPS X 300 GRS",
+            "precio": 1365.3398000000002,
+            "modificado": false,
+            "factor": "16",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        }
+    },
     "Limpialin": {
         "164": {
             "nombre_articulo": "LAVANDINA LIMPIALIN X 1 LT.",
@@ -3019,14 +4165,6 @@
             "unidad_kilo": "K",
             "peso_promedio": 2.0
         },
-        "495": {
-            "nombre_articulo": "MUZZA PLANCHA",
-            "precio": 7064.4035,
-            "modificado": false,
-            "factor": "1",
-            "unidad_kilo": "K",
-            "peso_promedio": 15.0
-        },
         "498": {
             "nombre_articulo": "QUESO DE CERDO VICTORIA",
             "precio": 4409.9902,
@@ -3034,6 +4172,40 @@
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 2.8
+        }
+    },
+    "La Gauchita": {
+        "495": {
+            "nombre_articulo": "MUZZA PLANCHA GAUCHITA",
+            "precio": 6661.3041,
+            "modificado": true,
+            "factor": "1",
+            "unidad_kilo": "K",
+            "peso_promedio": 10.0
+        },
+        "539": {
+            "nombre_articulo": "CREMOSO GAUCHITA",
+            "precio": 5843.2473,
+            "modificado": true,
+            "factor": "4",
+            "unidad_kilo": "K",
+            "peso_promedio": 4.0
+        },
+        "540": {
+            "nombre_articulo": "MUZZARELLA GAUCHITA",
+            "precio": 6076.983,
+            "modificado": true,
+            "factor": "1",
+            "unidad_kilo": "K",
+            "peso_promedio": 4.5
+        },
+        "541": {
+            "nombre_articulo": "SARDO FRESCO GAUCHITA",
+            "precio": 7933.0262,
+            "modificado": true,
+            "factor": "1",
+            "unidad_kilo": "K",
+            "peso_promedio": 3.2
         }
     },
     "Sol Naciente": {
