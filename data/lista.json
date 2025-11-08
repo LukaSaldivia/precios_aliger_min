@@ -147,9 +147,33 @@
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
+        "73": {
+            "nombre_articulo": "",
+            "precio": 0.0,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "140": {
+            "nombre_articulo": "",
+            "precio": 5197.5066,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
         "145": {
             "nombre_articulo": "",
             "precio": 6803.5275,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "306": {
+            "nombre_articulo": "",
+            "precio": 0.0,
             "modificado": false,
             "factor": 1,
             "unidad_kilo": "U",
@@ -1116,10 +1140,10 @@
         "374": {
             "nombre_articulo": "JAMON COCIDO PALADINI X 6 KG",
             "precio": 10784.9962,
-            "modificado": false,
+            "modificado": true,
             "factor": "2",
             "unidad_kilo": "K",
-            "peso_promedio": 499.9
+            "peso_promedio": 6.0
         },
         "398": {
             "nombre_articulo": "MILAN TIVOLI",
@@ -1398,10 +1422,10 @@
         "78": {
             "nombre_articulo": "CREMA QUESADA",
             "precio": 6421.1312,
-            "modificado": false,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
-            "peso_promedio": 500.0
+            "peso_promedio": 9.6
         },
         "79": {
             "nombre_articulo": "PARMESANO QUESADA",
@@ -1470,10 +1494,10 @@
         "362": {
             "nombre_articulo": "SALSA CHEDDAR SACHET",
             "precio": 4265.7098,
-            "modificado": false,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "K",
-            "peso_promedio": 500.0
+            "peso_promedio": 5.0
         },
         "383": {
             "nombre_articulo": "SABORIZADO QUESADA X 700",
@@ -1528,18 +1552,10 @@
         "72": {
             "nombre_articulo": "PATEGRAS ALIGER",
             "precio": 9400.3206,
-            "modificado": false,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
-            "peso_promedio": 500.0
-        },
-        "73": {
-            "nombre_articulo": "ROMANITO ALIGER",
-            "precio": 0.0,
-            "modificado": false,
-            "factor": "1",
-            "unidad_kilo": "K",
-            "peso_promedio": 500.0
+            "peso_promedio": 5.0
         },
         "74": {
             "nombre_articulo": "BARRA ALIGER",
@@ -1548,32 +1564,6 @@
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 4.5
-        },
-        "306": {
-            "nombre_articulo": "MANTECA PILON TONADITA",
-            "precio": 0.0,
-            "modificado": false,
-            "factor": "8",
-            "unidad_kilo": "U",
-            "peso_promedio": 0.0
-        }
-    },
-    "Spalen": {
-        "80": {
-            "nombre_articulo": "BARRA CHEDDAR SPALEN",
-            "precio": 8566.8121,
-            "modificado": false,
-            "factor": "4",
-            "unidad_kilo": "K",
-            "peso_promedio": 500.0
-        },
-        "81": {
-            "nombre_articulo": "FIAMBRIN SPALEN",
-            "precio": 0.0,
-            "modificado": false,
-            "factor": "4",
-            "unidad_kilo": "K",
-            "peso_promedio": 500.0
         }
     },
     "San Cayetano": {
@@ -1866,16 +1856,6 @@
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 50.0
-        }
-    },
-    "El Artesano": {
-        "115": {
-            "nombre_articulo": "CRUDO EL ARTESANO",
-            "precio": 17044.4714,
-            "modificado": false,
-            "factor": "4",
-            "unidad_kilo": "K",
-            "peso_promedio": 3.0
         }
     },
     "Platamar": {
@@ -2226,14 +2206,6 @@
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
-        },
-        "140": {
-            "nombre_articulo": "CREMOSO LA JUANITA",
-            "precio": 5197.5066,
-            "modificado": false,
-            "factor": "4",
-            "unidad_kilo": "K",
-            "peso_promedio": 500.0
         },
         "144": {
             "nombre_articulo": "CREMOSO LA JUANITA",
@@ -3716,24 +3688,6 @@
             "peso_promedio": 0.0
         }
     },
-    "Veronica": {
-        "222": {
-            "nombre_articulo": "LECHE ENTERA VERONICA LV",
-            "precio": 1981.7379999999998,
-            "modificado": false,
-            "factor": "12",
-            "unidad_kilo": "U",
-            "peso_promedio": 0.0
-        },
-        "265": {
-            "nombre_articulo": "LECHE DESCREMADA VERONICA LV",
-            "precio": 1722.9553,
-            "modificado": false,
-            "factor": "12",
-            "unidad_kilo": "U",
-            "peso_promedio": 0.0
-        }
-    },
     "Alco": {
         "225": {
             "nombre_articulo": "TOMATE PERITA X 400",
@@ -4010,34 +3964,34 @@
         "387": {
             "nombre_articulo": "MIX CRIOLLO X 10",
             "precio": 9215.601999999999,
-            "modificado": false,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "K",
-            "peso_promedio": 500.0
+            "peso_promedio": 1.0
         },
         "388": {
             "nombre_articulo": "MIX FRUTOS SECOS X 10",
             "precio": 23299.9173,
-            "modificado": false,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "K",
-            "peso_promedio": 500.0
+            "peso_promedio": 1.0
         },
         "389": {
             "nombre_articulo": "MIX FUERTE X 10",
             "precio": 9904.9511,
-            "modificado": false,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "K",
-            "peso_promedio": 500.0
+            "peso_promedio": 1.0
         },
         "390": {
             "nombre_articulo": "MIX EUROPEO X 10",
             "precio": 12084.6572,
-            "modificado": false,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "K",
-            "peso_promedio": 500.0
+            "peso_promedio": 1.0
         },
         "391": {
             "nombre_articulo": "MIX P/ENSALADA X 1",
