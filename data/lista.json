@@ -1,5 +1,5 @@
 {
-    "FECHA": "26-12-2025",
+    "FECHA": "02-01-2026",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X500",
@@ -1098,7 +1098,7 @@
         "487": {
             "nombre_articulo": "ALBAHACA X 1KG",
             "precio": 11232.3211,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1132,10 +1132,10 @@
         "33": {
             "nombre_articulo": "MORTADELA CAÑON CALCHAQUI",
             "precio": 7470.515799999999,
-            "modificado": false,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
-            "peso_promedio": 4.0
+            "peso_promedio": 3.5
         },
         "34": {
             "nombre_articulo": "BONDIOLA CALCHAQUI",
@@ -1164,7 +1164,7 @@
         "38": {
             "nombre_articulo": "MORTADELA C/PIST CALCHAQUI",
             "precio": 13845.158800000001,
-            "modificado": true,
+            "modificado": false,
             "factor": "2",
             "unidad_kilo": "K",
             "peso_promedio": 5.0
@@ -1515,24 +1515,24 @@
     "Paladini": {
         "45": {
             "nombre_articulo": "MORTADELA X4.5KG PALADINI",
-            "precio": 8436.241,
-            "modificado": false,
+            "precio": 8326.8449,
+            "modificado": true,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 3.2
         },
         "50": {
             "nombre_articulo": "MORTADELA FAM. PALADINI",
-            "precio": 2964.5242,
-            "modificado": false,
+            "precio": 2849.6831,
+            "modificado": true,
             "factor": "16",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "51": {
             "nombre_articulo": "MORTADELA X 2.5KG PALADINI",
-            "precio": 9468.6493,
-            "modificado": false,
+            "precio": 9150.0563,
+            "modificado": true,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 2.8
@@ -1540,15 +1540,15 @@
         "157": {
             "nombre_articulo": "VIENA X 6 FELA",
             "precio": 1129.8737999999998,
-            "modificado": false,
+            "modificado": true,
             "factor": "24",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "266": {
             "nombre_articulo": "PALETA PALADINI X6KG",
-            "precio": 12330.8559,
-            "modificado": false,
+            "precio": 12549.103599999999,
+            "modificado": true,
             "factor": "2",
             "unidad_kilo": "K",
             "peso_promedio": 6.0
@@ -1571,33 +1571,33 @@
         },
         "374": {
             "nombre_articulo": "JAMON COCIDO PALADINI X 6 KG",
-            "precio": 12182.546199999999,
-            "modificado": false,
+            "precio": 10776.743999999999,
+            "modificado": true,
             "factor": "2",
             "unidad_kilo": "K",
             "peso_promedio": 6.0
         },
         "398": {
             "nombre_articulo": "MILAN TIVOLI",
-            "precio": 9259.851700000001,
-            "modificado": false,
+            "precio": 9907.6252,
+            "modificado": true,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 2.1
         },
         "399": {
             "nombre_articulo": "MILAN FELA",
-            "precio": 11807.6882,
-            "modificado": false,
+            "precio": 12115.7179,
+            "modificado": true,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 2.2
         },
         "400": {
             "nombre_articulo": "BONDIOLA PALADINI",
-            "precio": 28707.564599999998,
+            "precio": 25377.0033,
             "modificado": true,
-            "factor": "4",
+            "factor": "6",
             "unidad_kilo": "K",
             "peso_promedio": 1.8
         },
@@ -1739,8 +1739,8 @@
         },
         "550": {
             "nombre_articulo": "CRUDO BLOQUE PALADINI",
-            "precio": 31992.6541,
-            "modificado": false,
+            "precio": 33056.1231,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 3.0
@@ -1766,7 +1766,7 @@
         "59": {
             "nombre_articulo": "BARRA QUESADA",
             "precio": 8411.6054,
-            "modificado": false,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 5.0
@@ -1774,7 +1774,7 @@
         "60": {
             "nombre_articulo": "CREMOSO QUESADA",
             "precio": 6469.1319,
-            "modificado": false,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 5.5
@@ -1894,7 +1894,7 @@
         "133": {
             "nombre_articulo": "MUZZA BARRA QUESADA",
             "precio": 8411.6054,
-            "modificado": false,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 4.7
@@ -1909,7 +1909,7 @@
         },
         "147": {
             "nombre_articulo": "QUESO AZUL 1/2 EMPERADOR",
-            "precio": 11385.8338,
+            "precio": 11596.688400000001,
             "modificado": false,
             "factor": "8",
             "unidad_kilo": "K",
@@ -2428,10 +2428,10 @@
         "322": {
             "nombre_articulo": "MATAMBRE EL CRIOLLITO",
             "precio": 16776.2265,
-            "modificado": false,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
-            "peso_promedio": 2.1
+            "peso_promedio": 2.3
         }
     },
     "Alloa Vanguard": {
@@ -2572,7 +2572,7 @@
         "135": {
             "nombre_articulo": "MAYONESA X2.9 HELLMANS",
             "precio": 12533.446199999998,
-            "modificado": true,
+            "modificado": false,
             "factor": "3",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -2588,7 +2588,7 @@
         "163": {
             "nombre_articulo": "KETCHUP HELLMAN`S X 60 GRS.",
             "precio": 943.3765,
-            "modificado": true,
+            "modificado": false,
             "factor": "30",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -2912,7 +2912,7 @@
         "181": {
             "nombre_articulo": "CALDO VERDURA KNORR X 2",
             "precio": 675.5914,
-            "modificado": true,
+            "modificado": false,
             "factor": "24",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3048,7 +3048,7 @@
         "212": {
             "nombre_articulo": "LAVANDINA AYUDIN 1L",
             "precio": 1183.3074000000001,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3312,7 +3312,7 @@
         "271": {
             "nombre_articulo": "VINAGRE MANZANA X 500ML",
             "precio": 1888.8946999999998,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3576,7 +3576,7 @@
         "377": {
             "nombre_articulo": "ESCOBILLON MAPUCHE 4H EC",
             "precio": 2358.4231,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3632,7 +3632,7 @@
         "405": {
             "nombre_articulo": "NATURA SALSA GOLF X125",
             "precio": 1214.0293,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3768,7 +3768,7 @@
         "482": {
             "nombre_articulo": "FOSFOROS 3 PATITOS",
             "precio": 953.0323,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3776,7 +3776,7 @@
         "483": {
             "nombre_articulo": "JABON TIRA PATRICIA 3X80",
             "precio": 858.6764999999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3824,7 +3824,7 @@
         "554": {
             "nombre_articulo": "SALCHICHON PRIMAVERA EL BIERZO",
             "precio": 6142.1415,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 3.0
@@ -3832,7 +3832,7 @@
         "555": {
             "nombre_articulo": "JABON ST TROPEZ X 125",
             "precio": 874.7211,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -4266,7 +4266,7 @@
         "369": {
             "nombre_articulo": "QUESO RALLADO X 40 GRS.LA QUESERA",
             "precio": 627.0704,
-            "modificado": true,
+            "modificado": false,
             "factor": "20",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -4274,7 +4274,7 @@
         "370": {
             "nombre_articulo": "BARRA CHEDDAR LA QUESERA",
             "precio": 16584.6351,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 3.0
@@ -4290,7 +4290,7 @@
         "372": {
             "nombre_articulo": "MIXTO CON SALAME LA QUESERA",
             "precio": 13862.2077,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 3.0
@@ -4473,7 +4473,7 @@
             "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
-            "peso_promedio": 2.1
+            "peso_promedio": 2.5
         }
     },
     "Arrodul": {
@@ -4516,6 +4516,56 @@
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
+        }
+    },
+    "Angelani": {
+        "556": {
+            "nombre_articulo": "MILANCITO ANGELANI",
+            "precio": 11157.0954,
+            "modificado": true,
+            "factor": "1",
+            "unidad_kilo": "K",
+            "peso_promedio": 1.4
+        },
+        "557": {
+            "nombre_articulo": "MORTA BOLONIA ANGELANI",
+            "precio": 5875.155,
+            "modificado": true,
+            "factor": "1",
+            "unidad_kilo": "K",
+            "peso_promedio": 3.2
+        },
+        "558": {
+            "nombre_articulo": "BASTON PURO CERDO ANGELANI",
+            "precio": 11608.691599999998,
+            "modificado": true,
+            "factor": "1",
+            "unidad_kilo": "K",
+            "peso_promedio": 0.8
+        },
+        "559": {
+            "nombre_articulo": "MILAN ANGELANI",
+            "precio": 10745.2719,
+            "modificado": true,
+            "factor": "1",
+            "unidad_kilo": "K",
+            "peso_promedio": 2.3
+        },
+        "560": {
+            "nombre_articulo": "MILAN 1/2 AL VACIO ANGELANI",
+            "precio": 11157.2164,
+            "modificado": true,
+            "factor": "1",
+            "unidad_kilo": "K",
+            "peso_promedio": 1.2
+        },
+        "561": {
+            "nombre_articulo": "SALAME ESPAÑOL ANGELANI",
+            "precio": 10843.971599999999,
+            "modificado": true,
+            "factor": "1",
+            "unidad_kilo": "K",
+            "peso_promedio": 1.2
         }
     }
 }
