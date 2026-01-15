@@ -1,10 +1,10 @@
 {
-    "FECHA": "09-01-2026",
+    "FECHA": "15-01-2026",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X 450",
             "precio": 5986.7896,
-            "modificado": true,
+            "modificado": false,
             "factor": "8",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -800,7 +800,7 @@
         "402": {
             "nombre_articulo": "BARRIL MZ",
             "precio": 6807.5326000000005,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 5.0
@@ -1208,7 +1208,7 @@
         "39": {
             "nombre_articulo": "DULCE DE MEMBRILLO",
             "precio": 12454.3485,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 50.0
@@ -1216,7 +1216,7 @@
         "40": {
             "nombre_articulo": "DULCE DE BATATA",
             "precio": 10112.7081,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 50.0
@@ -1224,7 +1224,7 @@
         "41": {
             "nombre_articulo": "DULCE DE BATATA C/CHOC",
             "precio": 10112.7081,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 500.0
@@ -1272,7 +1272,7 @@
         "296": {
             "nombre_articulo": "MEMBRILLO LATA",
             "precio": 16301.967,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1367,24 +1367,24 @@
         },
         "451": {
             "nombre_articulo": "BATATA CON CHOCOLATE X 700",
-            "precio": 3866.434,
-            "modificado": false,
+            "precio": 4059.7557,
+            "modificado": true,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "452": {
             "nombre_articulo": "BATATA VLLA.LATA X 700",
-            "precio": 3866.434,
-            "modificado": false,
+            "precio": 4059.7557,
+            "modificado": true,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "453": {
             "nombre_articulo": "MEMBRILLO LATA X 700",
-            "precio": 4804.7648,
-            "modificado": false,
+            "precio": 5045.022399999999,
+            "modificado": true,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1424,7 +1424,7 @@
         "486": {
             "nombre_articulo": "BATATA X 500 ESNAOLA",
             "precio": 1564.3001,
-            "modificado": true,
+            "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1504,7 +1504,7 @@
         "563": {
             "nombre_articulo": "MEMBRILLO X 500 ESNAOLA",
             "precio": 1880.8119000000002,
-            "modificado": true,
+            "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1512,7 +1512,7 @@
         "564": {
             "nombre_articulo": "BATATA X 500 DULCOR",
             "precio": 1266.5674999999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1540,7 +1540,7 @@
         "45": {
             "nombre_articulo": "MORTADELA X4.5KG PALADINI",
             "precio": 8327.0627,
-            "modificado": true,
+            "modificado": false,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 3.2
@@ -1548,7 +1548,7 @@
         "50": {
             "nombre_articulo": "MORTADELA FAM. PALADINI",
             "precio": 2849.7436,
-            "modificado": true,
+            "modificado": false,
             "factor": "16",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1556,15 +1556,15 @@
         "51": {
             "nombre_articulo": "MORTADELA X 2.5KG PALADINI",
             "precio": 9150.3225,
-            "modificado": true,
+            "modificado": false,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 2.8
         },
         "157": {
             "nombre_articulo": "VIENA X 6 FELA",
-            "precio": 1129.8737999999998,
-            "modificado": false,
+            "precio": 1003.2230999999999,
+            "modificado": true,
             "factor": "24",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1572,15 +1572,15 @@
         "266": {
             "nombre_articulo": "PALETA PALADINI X6KG",
             "precio": 12876.2634,
-            "modificado": true,
+            "modificado": false,
             "factor": "2",
             "unidad_kilo": "K",
             "peso_promedio": 6.0
         },
         "340": {
             "nombre_articulo": "VIENA X 6 PALDINI",
-            "precio": 1579.413,
-            "modificado": false,
+            "precio": 1731.8125,
+            "modificado": true,
             "factor": "24",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1588,7 +1588,7 @@
         "357": {
             "nombre_articulo": "LEBERWURST X 250 GRS.",
             "precio": 2024.5599,
-            "modificado": true,
+            "modificado": false,
             "factor": "26",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -1596,7 +1596,7 @@
         "374": {
             "nombre_articulo": "JAMON COCIDO PALADINI X 6 KG",
             "precio": 10776.5504,
-            "modificado": true,
+            "modificado": false,
             "factor": "2",
             "unidad_kilo": "K",
             "peso_promedio": 6.0
@@ -1604,7 +1604,7 @@
         "398": {
             "nombre_articulo": "MILAN TIVOLI",
             "precio": 9907.843,
-            "modificado": true,
+            "modificado": false,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 2.1
@@ -1612,7 +1612,7 @@
         "399": {
             "nombre_articulo": "MILAN FELA",
             "precio": 12115.7179,
-            "modificado": true,
+            "modificado": false,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 2.2
@@ -1620,7 +1620,7 @@
         "400": {
             "nombre_articulo": "BONDIOLA PALADINI",
             "precio": 25376.7371,
-            "modificado": true,
+            "modificado": false,
             "factor": "6",
             "unidad_kilo": "K",
             "peso_promedio": 1.8
@@ -1764,7 +1764,7 @@
         "550": {
             "nombre_articulo": "CRUDO BLOQUE PALADINI",
             "precio": 32536.9968,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 3.0
@@ -1788,7 +1788,7 @@
         "565": {
             "nombre_articulo": "CRUDO ESPUÑA",
             "precio": 44560.5732,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 4.7
@@ -2527,8 +2527,8 @@
         },
         "207": {
             "nombre_articulo": "TOMATE POUCH",
-            "precio": 2096.5428,
-            "modificado": false,
+            "precio": 2073.1293,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -2598,6 +2598,14 @@
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 500.0
+        },
+        "567": {
+            "nombre_articulo": "CIRUELAS D'AGEN S/CAR.X 5 KG",
+            "precio": 23379.499,
+            "modificado": true,
+            "factor": "1",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
         }
     },
     "Hellmans": {
@@ -3136,7 +3144,7 @@
         "223": {
             "nombre_articulo": "FIDEO MOSTACHOL SOL PAMPEANO",
             "precio": 800.4997000000001,
-            "modificado": true,
+            "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3231,8 +3239,8 @@
         },
         "238": {
             "nombre_articulo": "CHOCOLINO X 180",
-            "precio": 1851.4936,
-            "modificado": false,
+            "precio": 2014.4926999999998,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3872,7 +3880,7 @@
         "562": {
             "nombre_articulo": "SALCHICHON CON JAMON EL BIERZO",
             "precio": 6029.4421,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 3.0
@@ -4085,8 +4093,8 @@
     "Inalpa": {
         "231": {
             "nombre_articulo": "LENTEJAS INALPA X 300",
-            "precio": 711.1291,
-            "modificado": false,
+            "precio": 1303.6903,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -4476,7 +4484,7 @@
         "497": {
             "nombre_articulo": "CRUDO SOL NACIENTE",
             "precio": 17205.6071,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 2.5
@@ -4554,7 +4562,7 @@
         "556": {
             "nombre_articulo": "MILANCITO ANGELANI",
             "precio": 11157.0954,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 1.4
@@ -4562,7 +4570,7 @@
         "557": {
             "nombre_articulo": "MORTA BOLONIA ANGELANI",
             "precio": 5875.155,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 2.2
@@ -4570,7 +4578,7 @@
         "558": {
             "nombre_articulo": "BASTON PURO CERDO ANGELANI",
             "precio": 11608.691599999998,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 0.8
@@ -4578,7 +4586,7 @@
         "559": {
             "nombre_articulo": "MILAN ANGELANI",
             "precio": 10745.2719,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 2.3
@@ -4586,7 +4594,7 @@
         "560": {
             "nombre_articulo": "MILAN 1/2 AL VACIO ANGELANI",
             "precio": 11157.2164,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 1.2
@@ -4594,7 +4602,7 @@
         "561": {
             "nombre_articulo": "SALAME ESPAÑOL ANGELANI",
             "precio": 10843.971599999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 1.2
@@ -4606,6 +4614,24 @@
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 2.0
+        }
+    },
+    "El Destino": {
+        "568": {
+            "nombre_articulo": "CREMOSO EL DESTINO",
+            "precio": 5719.9604,
+            "modificado": true,
+            "factor": "4",
+            "unidad_kilo": "K",
+            "peso_promedio": 4.0
+        },
+        "569": {
+            "nombre_articulo": "BARRA TYBO EL DESTINO",
+            "precio": 7858.6112,
+            "modificado": true,
+            "factor": "4",
+            "unidad_kilo": "K",
+            "peso_promedio": 4.0
         }
     }
 }
