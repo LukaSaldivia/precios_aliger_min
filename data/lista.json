@@ -1,5 +1,5 @@
 {
-    "FECHA": "27-02-2026",
+    "FECHA": "04-03-2026",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X 450",
@@ -767,63 +767,63 @@
     "Emezeta": {
         "3": {
             "nombre_articulo": "CRUDO EMEZETA",
-            "precio": 23157.076800000003,
-            "modificado": false,
+            "precio": 25241.217099999998,
+            "modificado": true,
             "factor": "6",
             "unidad_kilo": "K",
             "peso_promedio": 3.5
         },
         "4": {
             "nombre_articulo": "JAMON NATIVO EMEZETA",
-            "precio": 10761.2923,
-            "modificado": false,
+            "precio": 11512.5692,
+            "modificado": true,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 5.5
         },
         "5": {
             "nombre_articulo": "FIAMBRE DE JAMON COCIDO GRANDE",
-            "precio": 7237.893299999999,
-            "modificado": false,
+            "precio": 7672.1744,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 5.0
         },
         "6": {
             "nombre_articulo": "PALETA MINI EMEZETA",
-            "precio": 6830.377399999999,
-            "modificado": false,
+            "precio": 7306.6213,
+            "modificado": true,
             "factor": "6",
             "unidad_kilo": "K",
             "peso_promedio": 4.5
         },
         "7": {
             "nombre_articulo": "LOMO CANADIENSE EMEZETA",
-            "precio": 12959.571899999999,
-            "modificado": false,
+            "precio": 13864.361499999999,
+            "modificado": true,
             "factor": "6",
             "unidad_kilo": "K",
             "peso_promedio": 2.5
         },
         "8": {
             "nombre_articulo": "MILAN LARGO EMEZETA",
-            "precio": 10367.9818,
-            "modificado": false,
+            "precio": 11196.4688,
+            "modificado": true,
             "factor": "6",
             "unidad_kilo": "K",
             "peso_promedio": 3.0
         },
         "9": {
             "nombre_articulo": "BASTON EMEZETA",
-            "precio": 12212.8446,
-            "modificado": false,
+            "precio": 13188.7338,
+            "modificado": true,
             "factor": "15",
             "unidad_kilo": "K",
             "peso_promedio": 2.0
         },
         "10": {
             "nombre_articulo": "BONDIOLA EMEZETA",
-            "precio": 17841.7041,
+            "precio": 19447.4588,
             "modificado": true,
             "factor": "12",
             "unidad_kilo": "K",
@@ -831,80 +831,80 @@
         },
         "11": {
             "nombre_articulo": "PANCETA AHUM C/C EMEZETA",
-            "precio": 14055.142199999998,
-            "modificado": false,
+            "precio": 15036.3917,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "K",
             "peso_promedio": 2.5
         },
         "12": {
             "nombre_articulo": "PANCETA TIERNIZADA EMEZETA",
-            "precio": 7216.5126,
-            "modificado": false,
+            "precio": 7720.3566,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "K",
             "peso_promedio": 2.0
         },
         "13": {
             "nombre_articulo": "PANCETA SALADA EMEZETA",
-            "precio": 13259.639799999999,
-            "modificado": false,
+            "precio": 14185.3503,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "K",
             "peso_promedio": 2.0
         },
         "14": {
             "nombre_articulo": "SALCHICHON C/JAMON EMEZETA",
-            "precio": 4673.5766,
-            "modificado": false,
+            "precio": 4999.8289,
+            "modificado": true,
             "factor": "7",
             "unidad_kilo": "K",
             "peso_promedio": 3.1
         },
         "15": {
             "nombre_articulo": "SALCHICHON PRIMAVERA EMEZETA",
-            "precio": 4673.5766,
-            "modificado": false,
+            "precio": 4999.8289,
+            "modificado": true,
             "factor": "7",
             "unidad_kilo": "K",
             "peso_promedio": 3.2
         },
         "16": {
             "nombre_articulo": "MORTADELA EMEZETA",
-            "precio": 5220.7144,
-            "modificado": false,
+            "precio": 5585.2753,
+            "modificado": true,
             "factor": "7",
             "unidad_kilo": "K",
             "peso_promedio": 3.2
         },
         "134": {
             "nombre_articulo": "MILANCITO EMEZETA",
-            "precio": 11907.065499999999,
-            "modificado": false,
+            "precio": 12858.5248,
+            "modificado": true,
             "factor": "15",
             "unidad_kilo": "K",
             "peso_promedio": 1.5
         },
         "318": {
             "nombre_articulo": "JAMON BOLON 3783",
-            "precio": 6558.5509,
-            "modificado": false,
+            "precio": 7016.4391,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 4.0
         },
         "363": {
             "nombre_articulo": "LOMO AHUMADO EMEZETA",
-            "precio": 11090.4607,
-            "modificado": false,
+            "precio": 11864.7518,
+            "modificado": true,
             "factor": "6",
             "unidad_kilo": "K",
             "peso_promedio": 2.1
         },
         "365": {
             "nombre_articulo": "PALETA CUADRADA EMEZETA",
-            "precio": 6830.377399999999,
-            "modificado": false,
+            "precio": 7306.6213,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 4.0
@@ -919,16 +919,16 @@
         },
         "395": {
             "nombre_articulo": "PALETA EMEZETA GRANDE",
-            "precio": 6570.9776,
-            "modificado": false,
+            "precio": 7029.736999999999,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 4.3
         },
         "401": {
             "nombre_articulo": "MILAN CORTO MZ",
-            "precio": 10367.9818,
-            "modificado": false,
+            "precio": 11196.4688,
+            "modificado": true,
             "factor": "8",
             "unidad_kilo": "K",
             "peso_promedio": 2.1
@@ -943,8 +943,8 @@
         },
         "417": {
             "nombre_articulo": "BONDIOLA AL VACIO 1/2 MZ",
-            "precio": 18659.3253,
-            "modificado": false,
+            "precio": 20358.6856,
+            "modificado": true,
             "factor": "20",
             "unidad_kilo": "K",
             "peso_promedio": 1.2
@@ -2453,8 +2453,8 @@
     "Platamar": {
         "116": {
             "nombre_articulo": "ANCHOAS X90GR",
-            "precio": 4793.5965,
-            "modificado": false,
+            "precio": 4976.6453,
+            "modificado": true,
             "factor": "24",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -2471,8 +2471,8 @@
     "El Bocarte": {
         "118": {
             "nombre_articulo": "ANCHOAS 60 X 3",
-            "precio": 34924.8108,
-            "modificado": false,
+            "precio": 36357.1241,
+            "modificado": true,
             "factor": "6",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -2487,16 +2487,16 @@
         },
         "120": {
             "nombre_articulo": "ANCHOAS 30 X 3",
-            "precio": 18078.731,
-            "modificado": false,
+            "precio": 19215.3566,
+            "modificado": true,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "121": {
             "nombre_articulo": "ANCHOAS X1.5KG",
-            "precio": 40176.3681,
-            "modificado": false,
+            "precio": 46267.2056,
+            "modificado": true,
             "factor": "6",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -2540,15 +2540,15 @@
         "126": {
             "nombre_articulo": "MATAMBRE FEPA",
             "precio": 13450.057499999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 2.0
         },
         "127": {
             "nombre_articulo": "POLLO FEPA",
-            "precio": 11830.4483,
-            "modificado": false,
+            "precio": 13000.494099999998,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 2.3
@@ -2556,7 +2556,7 @@
         "321": {
             "nombre_articulo": "MATAMBRE PREMIUN EL CRIOLLITO",
             "precio": 21418.2221,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 3.0
@@ -2564,7 +2564,7 @@
         "322": {
             "nombre_articulo": "MATAMBRE EL CRIOLLITO",
             "precio": 18419.5033,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 2.3
@@ -2666,7 +2666,7 @@
         "131": {
             "nombre_articulo": "BOTELLA TOMATE ROD AC",
             "precio": 1863.8961,
-            "modificado": true,
+            "modificado": false,
             "factor": "8",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -2791,8 +2791,8 @@
         },
         "345": {
             "nombre_articulo": "ACEITE DE OLIVA X 500",
-            "precio": 10128.873699999998,
-            "modificado": false,
+            "precio": 10822.2521,
+            "modificado": true,
             "factor": "6",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -2984,7 +2984,7 @@
         "170": {
             "nombre_articulo": "BOLSAS ZELNOVA 45 X 60",
             "precio": 580.9331,
-            "modificado": true,
+            "modificado": false,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3056,7 +3056,7 @@
         "181": {
             "nombre_articulo": "CALDO VERDURA KNORR X 2",
             "precio": 688.7562,
-            "modificado": false,
+            "modificado": true,
             "factor": "24",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3064,7 +3064,7 @@
         "183": {
             "nombre_articulo": "LEVADURA LEVEX 2 X 25",
             "precio": 1083.9785,
-            "modificado": false,
+            "modificado": true,
             "factor": "25",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3096,7 +3096,7 @@
         "189": {
             "nombre_articulo": "ACEITE NATURA X900",
             "precio": 4080.7371000000003,
-            "modificado": true,
+            "modificado": false,
             "factor": "15",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3191,8 +3191,8 @@
         },
         "212": {
             "nombre_articulo": "LAVANDINA AYUDIN 1L",
-            "precio": 1397.4411,
-            "modificado": false,
+            "precio": 1431.2363999999998,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3248,7 +3248,7 @@
         "223": {
             "nombre_articulo": "FIDEO MOSTACHOL SOL PAMPEANO",
             "precio": 840.5143999999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3343,8 +3343,8 @@
         },
         "238": {
             "nombre_articulo": "CHOCOLINO X 180",
-            "precio": 2014.4926999999998,
-            "modificado": false,
+            "precio": 2062.0215,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3352,15 +3352,15 @@
         "239": {
             "nombre_articulo": "YERBA AMANDA",
             "precio": 1747.6755999999998,
-            "modificado": false,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "247": {
             "nombre_articulo": "BOLSAS ZELNOVA 60X90",
-            "precio": 1079.7072,
-            "modificado": false,
+            "precio": 1373.9913,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3401,7 +3401,7 @@
             "nombre_articulo": "FIDEO TIRABUZON SOL PAMPEANO X500G",
             "precio": 840.5143999999999,
             "modificado": true,
-            "factor": "12",
+            "factor": "15",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
@@ -3496,7 +3496,7 @@
         "286": {
             "nombre_articulo": "FIDEO CELENTANO SOL PAMP",
             "precio": 841.8575,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3760,7 +3760,7 @@
         "403": {
             "nombre_articulo": "TRAPO GRIS B-AIRE/JULIET",
             "precio": 1019.1829999999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3800,7 +3800,7 @@
         "412": {
             "nombre_articulo": "YERBA CBSE NARANJA X500",
             "precio": 1943.0179999999998,
-            "modificado": true,
+            "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3935,8 +3935,8 @@
         },
         "489": {
             "nombre_articulo": "CALDO DE GALLINA",
-            "precio": 477.74429999999995,
-            "modificado": false,
+            "precio": 688.7562,
+            "modificado": true,
             "factor": "24",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -4507,8 +4507,8 @@
         },
         "388": {
             "nombre_articulo": "MIX FRUTOS SECOS X 10",
-            "precio": 25431.8405,
-            "modificado": false,
+            "precio": 27185.771800000002,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "K",
             "peso_promedio": 1.0
@@ -4542,7 +4542,7 @@
         "434": {
             "nombre_articulo": "VINAGRE X 5 LTS",
             "precio": 2786.2911999999997,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -4567,7 +4567,7 @@
         },
         "496": {
             "nombre_articulo": "QUESO DE CERDO LOPARDO",
-            "precio": 7225.6723,
+            "precio": 6958.0566,
             "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
@@ -4603,8 +4603,8 @@
     "Sol Naciente": {
         "497": {
             "nombre_articulo": "CRUDO SOL NACIENTE",
-            "precio": 17205.6071,
-            "modificado": false,
+            "precio": 18143.9984,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 2.5
@@ -4730,10 +4730,18 @@
         "581": {
             "nombre_articulo": "LONGA NAPOLITANA ANGELANI",
             "precio": 12153.905499999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 0.6
+        },
+        "588": {
+            "nombre_articulo": "MORCILLON ANGELANI",
+            "precio": 6148.6755,
+            "modificado": true,
+            "factor": "1",
+            "unidad_kilo": "K",
+            "peso_promedio": 2.2
         }
     },
     "El Destino": {
@@ -4768,7 +4776,7 @@
         "584": {
             "nombre_articulo": "MANTECA X 100 S Y S",
             "precio": 980.9954,
-            "modificado": true,
+            "modificado": false,
             "factor": "60",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -4776,7 +4784,7 @@
         "585": {
             "nombre_articulo": "MANTECA X 200 S Y S",
             "precio": 1961.9908,
-            "modificado": true,
+            "modificado": false,
             "factor": "30",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -4784,7 +4792,7 @@
         "586": {
             "nombre_articulo": "MANTECA PILON COTAMPO",
             "precio": 24524.993899999998,
-            "modificado": true,
+            "modificado": false,
             "factor": "8",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
