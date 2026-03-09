@@ -1,5 +1,5 @@
 {
-    "FECHA": "05-03-2026",
+    "FECHA": "09-03-2026",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X 450",
@@ -139,6 +139,14 @@
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
+        "34": {
+            "nombre_articulo": "",
+            "precio": 21097.015499999998,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
         "44": {
             "nombre_articulo": "",
             "precio": 0.0,
@@ -198,6 +206,14 @@
         "117": {
             "nombre_articulo": "",
             "precio": 3505.3215999999998,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "123": {
+            "nombre_articulo": "",
+            "precio": 16714.468100000002,
             "modificado": false,
             "factor": 1,
             "unidad_kilo": "U",
@@ -659,6 +675,14 @@
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
+        "494": {
+            "nombre_articulo": "",
+            "precio": 7074.8337,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
         "495": {
             "nombre_articulo": "",
             "precio": 6788.1847,
@@ -699,6 +723,14 @@
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
+        "519": {
+            "nombre_articulo": "",
+            "precio": 9576.5571,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
         "520": {
             "nombre_articulo": "",
             "precio": 25789.819,
@@ -726,6 +758,14 @@
         "551": {
             "nombre_articulo": "",
             "precio": 8526.8458,
+            "modificado": false,
+            "factor": 1,
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "556": {
+            "nombre_articulo": "",
+            "precio": 11157.0954,
             "modificado": false,
             "factor": 1,
             "unidad_kilo": "U",
@@ -1268,7 +1308,7 @@
         "32": {
             "nombre_articulo": "MORTADELA BOCHA CALCHAQUI",
             "precio": 9722.6404,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 5.7
@@ -1276,18 +1316,10 @@
         "33": {
             "nombre_articulo": "MORTADELA CAÑON CALCHAQUI",
             "precio": 8310.1227,
-            "modificado": true,
-            "factor": "1",
-            "unidad_kilo": "K",
-            "peso_promedio": 3.5
-        },
-        "34": {
-            "nombre_articulo": "BONDIOLA CALCHAQUI",
-            "precio": 21097.015499999998,
             "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
-            "peso_promedio": 1.5
+            "peso_promedio": 3.5
         },
         "35": {
             "nombre_articulo": "PANCETA AHUMADA CALCHAQUI",
@@ -1300,7 +1332,7 @@
         "36": {
             "nombre_articulo": "MORTADELA GIG. CALCHAQUI",
             "precio": 10784.584799999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 25.0
@@ -1308,7 +1340,7 @@
         "38": {
             "nombre_articulo": "MORTADELA C/PIST CALCHAQUI",
             "precio": 15401.3761,
-            "modificado": true,
+            "modificado": false,
             "factor": "2",
             "unidad_kilo": "K",
             "peso_promedio": 5.0
@@ -1777,14 +1809,6 @@
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
-        "519": {
-            "nombre_articulo": "BONDIOLA CONGELADA PALADINI",
-            "precio": 9576.5571,
-            "modificado": false,
-            "factor": "1",
-            "unidad_kilo": "K",
-            "peso_promedio": 2.0
-        },
         "522": {
             "nombre_articulo": "COSTILLITAS CONG.PALADINI",
             "precio": 8511.5514,
@@ -2045,8 +2069,8 @@
         },
         "147": {
             "nombre_articulo": "QUESO AZUL 1/2 EMPERADOR",
-            "precio": 12234.068,
-            "modificado": false,
+            "precio": 12901.782299999999,
+            "modificado": true,
             "factor": "8",
             "unidad_kilo": "K",
             "peso_promedio": 1.5
@@ -2511,14 +2535,6 @@
             "unidad_kilo": "K",
             "peso_promedio": 2.6
         },
-        "123": {
-            "nombre_articulo": "BONDIOLA W",
-            "precio": 16714.468100000002,
-            "modificado": false,
-            "factor": "10",
-            "unidad_kilo": "K",
-            "peso_promedio": 2.0
-        },
         "124": {
             "nombre_articulo": "PALETA P/EMP.W",
             "precio": 2606.0496000000003,
@@ -2573,16 +2589,16 @@
     "Alloa Vanguard": {
         "128": {
             "nombre_articulo": "QUESO AZUL 1/2 ALLOA",
-            "precio": 12631.770799999998,
-            "modificado": false,
+            "precio": 13554.2022,
+            "modificado": true,
             "factor": "8",
             "unidad_kilo": "K",
             "peso_promedio": 1.4
         },
         "129": {
             "nombre_articulo": "QUESO AZUL ALLOA",
-            "precio": 11699.5747,
-            "modificado": false,
+            "precio": 12512.8157,
+            "modificado": true,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 3.0
@@ -2835,8 +2851,8 @@
     "Cavade": {
         "143": {
             "nombre_articulo": "PAPEL HIGIENICO CAVADE X 4X 30 MTS.",
-            "precio": 1104.5847999999999,
-            "modificado": false,
+            "precio": 1192.9632,
+            "modificado": true,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -2846,6 +2862,14 @@
             "precio": 2235.6686,
             "modificado": false,
             "factor": "12",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "589": {
+            "nombre_articulo": "HIGIENICO KAVADE X 24",
+            "precio": 6204.0088,
+            "modificado": true,
+            "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         }
@@ -4093,16 +4117,16 @@
     "Tresal": {
         "178": {
             "nombre_articulo": "SAL GRUESA TRESAL X 1 KG",
-            "precio": 841.9422000000001,
-            "modificado": false,
+            "precio": 914.9899,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "250": {
             "nombre_articulo": "SAL FINA TRESAL X 500",
-            "precio": 533.1623,
-            "modificado": false,
+            "precio": 546.8958,
+            "modificado": true,
             "factor": "20",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -4198,7 +4222,7 @@
         "231": {
             "nombre_articulo": "LENTEJAS BAHIA X 300",
             "precio": 1031.9122,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -4222,7 +4246,7 @@
         "572": {
             "nombre_articulo": "ATUN LOMITO AL ACEITE BAHIA",
             "precio": 2322.6918,
-            "modificado": true,
+            "modificado": false,
             "factor": "48",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -4465,7 +4489,7 @@
     "La Quesera": {
         "369": {
             "nombre_articulo": "QUESO RALLADO X 40 GRS.LA QUESERA",
-            "precio": 649.0198,
+            "precio": 654.973,
             "modificado": false,
             "factor": "20",
             "unidad_kilo": "U",
@@ -4481,7 +4505,7 @@
         },
         "371": {
             "nombre_articulo": "GRUYERE CUÑA LA QUESERA",
-            "precio": 25206.478,
+            "precio": 25439.8628,
             "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
@@ -4560,7 +4584,7 @@
         "490": {
             "nombre_articulo": "PALETA COCIDA DON SILVIO",
             "precio": 6036.665799999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 4.5
@@ -4568,7 +4592,7 @@
         "496": {
             "nombre_articulo": "QUESO DE CERDO LOPARDO",
             "precio": 6958.0566,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 1.8
@@ -4590,14 +4614,6 @@
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 4.2
-        },
-        "494": {
-            "nombre_articulo": "MUZZA CABAÑA AZUL",
-            "precio": 7074.8337,
-            "modificado": false,
-            "factor": "1",
-            "unidad_kilo": "K",
-            "peso_promedio": 2.0
         }
     },
     "Sol Naciente": {
@@ -4663,14 +4679,6 @@
         }
     },
     "Angelani": {
-        "556": {
-            "nombre_articulo": "MILANCITO ANGELANI",
-            "precio": 11157.0954,
-            "modificado": false,
-            "factor": "1",
-            "unidad_kilo": "K",
-            "peso_promedio": 1.4
-        },
         "557": {
             "nombre_articulo": "MORTA BOLONIA ANGELANI",
             "precio": 6345.917600000001,
@@ -4689,55 +4697,55 @@
         },
         "559": {
             "nombre_articulo": "MILAN ANGELANI",
-            "precio": 11813.193699999998,
-            "modificado": false,
+            "precio": 12868.2411,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 2.3
         },
         "560": {
             "nombre_articulo": "MILAN 1/2 AL VACIO ANGELANI",
-            "precio": 12154.5831,
-            "modificado": false,
+            "precio": 13361.582299999998,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 1.2
         },
         "561": {
             "nombre_articulo": "SALAME ESPAÑOL ANGELANI",
-            "precio": 11813.4478,
-            "modificado": false,
+            "precio": 12868.5073,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 1.2
         },
         "566": {
             "nombre_articulo": "SALAMIN ANGELANI",
-            "precio": 13367.0636,
-            "modificado": false,
+            "precio": 14696.9625,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 2.0
         },
         "580": {
             "nombre_articulo": "LONGA.PURO CERDO ANGELANI",
-            "precio": 15209.760499999999,
-            "modificado": false,
+            "precio": 16720.1672,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 0.6
         },
         "581": {
             "nombre_articulo": "LONGA NAPOLITANA ANGELANI",
-            "precio": 12153.905499999999,
-            "modificado": false,
+            "precio": 13360.8321,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 0.6
         },
         "588": {
             "nombre_articulo": "MORCILLON ANGELANI",
-            "precio": 6148.6755,
+            "precio": 6640.5647,
             "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
@@ -4766,7 +4774,7 @@
         "577": {
             "nombre_articulo": "QUESO DE CERDO 103",
             "precio": 4982.9373,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 5.2
