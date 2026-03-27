@@ -1,5 +1,5 @@
 {
-    "FECHA": "26-03-2026",
+    "FECHA": "27-03-2026",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X 450",
@@ -1785,7 +1785,7 @@
     "Halcon": {
         "42": {
             "nombre_articulo": "GRASA VACUNA",
-            "precio": 2025.9877,
+            "precio": 2082.7851,
             "modificado": false,
             "factor": "10",
             "unidad_kilo": "U",
@@ -1793,7 +1793,7 @@
         },
         "43": {
             "nombre_articulo": "GRASA DE CERDO",
-            "precio": 2156.5225,
+            "precio": 2216.9862,
             "modificado": false,
             "factor": "10",
             "unidad_kilo": "U",
@@ -1859,8 +1859,8 @@
         },
         "374": {
             "nombre_articulo": "JAMON COCIDO PALADINI X 6 KG",
-            "precio": 13593.5877,
-            "modificado": false,
+            "precio": 12824.4149,
+            "modificado": true,
             "factor": "2",
             "unidad_kilo": "K",
             "peso_promedio": 6.0
@@ -4858,7 +4858,7 @@
         "595": {
             "nombre_articulo": "GRANEL VERDE 0 X 180 KG",
             "precio": 965157.1171,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
