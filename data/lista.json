@@ -1,5 +1,5 @@
 {
-    "FECHA": "26-06-2026",
+    "FECHA": "29-06-2026",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X 450",
@@ -1936,7 +1936,7 @@
         "309": {
             "nombre_articulo": "BATATA C/GUINDAS",
             "precio": 24828.0384,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -4766,7 +4766,7 @@
         "434": {
             "nombre_articulo": "VINAGRE X 5 LTS",
             "precio": 3768.0489000000002,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -4774,7 +4774,7 @@
         "545": {
             "nombre_articulo": "VINAGRE X 900 REY GRANEL",
             "precio": 740.8829999999999,
-            "modificado": true,
+            "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -4782,7 +4782,7 @@
         "553": {
             "nombre_articulo": "ACEITE GIRASOL X 5 LTS",
             "precio": 13145.44,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -5008,7 +5008,7 @@
         "568": {
             "nombre_articulo": "CREMOSO EL DESTINO",
             "precio": 7561.8708,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 4.5
