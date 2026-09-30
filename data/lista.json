@@ -1,5 +1,5 @@
 {
-    "FECHA": "24-09-2026",
+    "FECHA": "30-09-2026",
     "Peipo": {
         "1": {
             "nombre_articulo": "PAPA COMUN X 450",
@@ -108,7 +108,7 @@
         "458": {
             "nombre_articulo": "CHEESTICK QUESO X 300",
             "precio": 4076.1512,
-            "modificado": true,
+            "modificado": false,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3050,7 +3050,7 @@
         "608": {
             "nombre_articulo": "MERMELADA POTE DURAZNO DULCOR",
             "precio": 1292.9334,
-            "modificado": true,
+            "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3125,8 +3125,8 @@
         },
         "51": {
             "nombre_articulo": "MORTADELA X 2.5KG PALADINI",
-            "precio": 11471.683299999999,
-            "modificado": false,
+            "precio": 11472.143100000001,
+            "modificado": true,
             "factor": "3",
             "unidad_kilo": "K",
             "peso_promedio": 2.8
@@ -3262,7 +3262,7 @@
         "536": {
             "nombre_articulo": "EMPANADAS CARNE",
             "precio": 6514.8940999999995,
-            "modificado": false,
+            "modificado": true,
             "factor": "8",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3270,7 +3270,7 @@
         "537": {
             "nombre_articulo": "EMPANADAS ESPIN.Y QUESO",
             "precio": 6514.8940999999995,
-            "modificado": false,
+            "modificado": true,
             "factor": "8",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3300,10 +3300,18 @@
             "peso_promedio": 4.7
         },
         "635": {
-            "nombre_articulo": "PAPAPS BASTON PRE FRITAS X 1.1 KG.",
-            "precio": 5539.041200000001,
-            "modificado": false,
+            "nombre_articulo": "PAPAS BASTON PRE FRITAS X 1.1 KG.",
+            "precio": 5949.3401,
+            "modificado": true,
             "factor": "12",
+            "unidad_kilo": "U",
+            "peso_promedio": 0.0
+        },
+        "646": {
+            "nombre_articulo": "MORTADELA FAMILIAR C/PISTACHO",
+            "precio": 4438.401,
+            "modificado": true,
+            "factor": "16",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         }
@@ -3440,7 +3448,7 @@
         "133": {
             "nombre_articulo": "MUZZA BARRA QUESADA",
             "precio": 11006.5956,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 4.7
@@ -3546,7 +3554,7 @@
         "74": {
             "nombre_articulo": "BARRA ALIGER",
             "precio": 10249.1961,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 4.5
@@ -3726,7 +3734,7 @@
         "83": {
             "nombre_articulo": "FRASCO X2KG 00",
             "precio": 23709.9984,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3734,7 +3742,7 @@
         "106": {
             "nombre_articulo": "BALDE X 5 KG RELLENA",
             "precio": 55197.6711,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3742,7 +3750,7 @@
         "108": {
             "nombre_articulo": "BALDE X 5 KG 3",
             "precio": 28185.304399999997,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3750,7 +3758,7 @@
         "587": {
             "nombre_articulo": "TOMATE POUCH CAROYENSE X 2.5",
             "precio": 3049.2,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3766,7 +3774,7 @@
         "621": {
             "nombre_articulo": "BALDE VERDE 0",
             "precio": 37249.8742,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3798,7 +3806,7 @@
         "641": {
             "nombre_articulo": "BALDE VERDE 1",
             "precio": 31534.5965,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3806,7 +3814,7 @@
         "642": {
             "nombre_articulo": "BALDE VERDE 2",
             "precio": 30002.5429,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3814,7 +3822,7 @@
         "643": {
             "nombre_articulo": "BALDE VERDE DESC.0",
             "precio": 40471.5234,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3865,8 +3873,8 @@
     "Platamar": {
         "116": {
             "nombre_articulo": "ANCHOAS X90GR",
-            "precio": 5661.8198999999995,
-            "modificado": false,
+            "precio": 5835.370199999999,
+            "modificado": true,
             "factor": "24",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -3883,32 +3891,32 @@
     "El Bocarte": {
         "118": {
             "nombre_articulo": "ANCHOAS 60 X 3",
-            "precio": 41470.910800000005,
-            "modificado": false,
+            "precio": 42412.5086,
+            "modificado": true,
             "factor": "6",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "119": {
             "nombre_articulo": "ANCHOAS 18 X 3",
-            "precio": 14706.001199999999,
-            "modificado": false,
+            "precio": 15502.495799999999,
+            "modificado": true,
             "factor": "15",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "120": {
             "nombre_articulo": "ANCHOAS 30 X 3",
-            "precio": 22500.1799,
-            "modificado": false,
+            "precio": 23253.7558,
+            "modificado": true,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
         },
         "121": {
             "nombre_articulo": "ANCHOAS X1.5KG",
-            "precio": 53990.405699999996,
-            "modificado": false,
+            "precio": 56306.24889999999,
+            "modificado": true,
             "factor": "6",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -4010,7 +4018,7 @@
         "356": {
             "nombre_articulo": "NUEZ PELADA MARIPOSA",
             "precio": 23051.1534,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 5.2
@@ -4018,7 +4026,7 @@
         "464": {
             "nombre_articulo": "ALMENDRAS PELADAS",
             "precio": 40135.095,
-            "modificado": true,
+            "modificado": false,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 5.5
@@ -4398,7 +4406,7 @@
         "223": {
             "nombre_articulo": "FIDEO MOSTACHOL SOL PAMPEANO",
             "precio": 979.3014000000001,
-            "modificado": true,
+            "modificado": false,
             "factor": "15",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -4532,7 +4540,7 @@
         "214": {
             "nombre_articulo": "ALCOHOL DE QUEMAR X 1L",
             "precio": 4182.4133999999995,
-            "modificado": true,
+            "modificado": false,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -4796,7 +4804,7 @@
         "370": {
             "nombre_articulo": "BARRA CHEDDAR LA QUESERA",
             "precio": 21421.9126,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 3.0
@@ -4804,7 +4812,7 @@
         "371": {
             "nombre_articulo": "GRUYERE CUÑA LA QUESERA",
             "precio": 31748.839099999997,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 3.9
@@ -4812,7 +4820,7 @@
         "372": {
             "nombre_articulo": "MIXTO CON SALAME LA QUESERA",
             "precio": 17591.3067,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 3.0
@@ -4820,10 +4828,26 @@
         "629": {
             "nombre_articulo": "QUESO AZUL LA QUESERA",
             "precio": 18622.7833,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 2.0
+        },
+        "644": {
+            "nombre_articulo": "SBRINZ LA QUESERA",
+            "precio": 24090.7854,
+            "modificado": true,
+            "factor": "2",
+            "unidad_kilo": "K",
+            "peso_promedio": 7.0
+        },
+        "645": {
+            "nombre_articulo": "REGGIANITO LA QUESERA",
+            "precio": 24822.363499999996,
+            "modificado": true,
+            "factor": "2",
+            "unidad_kilo": "K",
+            "peso_promedio": 7.0
         }
     },
     "Mix Dietetica": {
@@ -4929,16 +4953,16 @@
         },
         "490": {
             "nombre_articulo": "PALETA COCIDA DON SILVIO",
-            "precio": 6999.4385999999995,
-            "modificado": false,
+            "precio": 7062.152899999999,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 4.5
         },
         "496": {
             "nombre_articulo": "QUESO DE CERDO LOPARDO",
-            "precio": 4325.1208,
-            "modificado": false,
+            "precio": 5803.2083999999995,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "K",
             "peso_promedio": 1.8
@@ -5178,7 +5202,7 @@
         "569": {
             "nombre_articulo": "BARRA TYBO EL DESTINO",
             "precio": 10342.0757,
-            "modificado": true,
+            "modificado": false,
             "factor": "4",
             "unidad_kilo": "K",
             "peso_promedio": 4.0
@@ -5222,7 +5246,7 @@
         "632": {
             "nombre_articulo": "YERBA ROSAMONTE X 500",
             "precio": 1721.709,
-            "modificado": true,
+            "modificado": false,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -5230,7 +5254,7 @@
         "633": {
             "nombre_articulo": "YERBA ROSAMONTE X 500 SUAVE",
             "precio": 1984.763,
-            "modificado": true,
+            "modificado": false,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -5238,7 +5262,7 @@
         "634": {
             "nombre_articulo": "TE EN SAQ.X 25 ROSAMONTE",
             "precio": 690.1235,
-            "modificado": true,
+            "modificado": false,
             "factor": "20",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
