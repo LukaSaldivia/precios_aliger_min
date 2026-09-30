@@ -67,8 +67,8 @@
         },
         "56": {
             "nombre_articulo": "MAIZ INFLADO PEIPO",
-            "precio": 4978.423999999999,
-            "modificado": false,
+            "precio": 5954.240599999999,
+            "modificado": true,
             "factor": "10",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -497,7 +497,7 @@
         },
         "161": {
             "nombre_articulo": "BICARBONATO X 50 GRS.",
-            "precio": 642.4010999999999,
+            "precio": 647.9429,
             "modificado": false,
             "factor": "50",
             "unidad_kilo": "U",
@@ -569,8 +569,8 @@
         },
         "319": {
             "nombre_articulo": "AZUCAR IMPALPABLE X 200",
-            "precio": 1049.2757,
-            "modificado": false,
+            "precio": 1096.1148,
+            "modificado": true,
             "factor": "30",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -691,8 +691,8 @@
         },
         "473": {
             "nombre_articulo": "LECHE LARGA VIDA ILOLAY",
-            "precio": 2393.5130999999997,
-            "modificado": false,
+            "precio": 2112.539,
+            "modificado": true,
             "factor": "12",
             "unidad_kilo": "U",
             "peso_promedio": 0.5
@@ -2888,9 +2888,9 @@
             "peso_promedio": 0.0
         },
         "281": {
-            "nombre_articulo": "HILERET CLASICO X 500",
-            "precio": 10478.8178,
-            "modificado": false,
+            "nombre_articulo": "HILERET CLASICO X 400",
+            "precio": 9726.8391,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
@@ -4428,9 +4428,9 @@
             "peso_promedio": 0.0
         },
         "263": {
-            "nombre_articulo": "GALLETITA PEPAS X400",
-            "precio": 1520.6796,
-            "modificado": false,
+            "nombre_articulo": "GALLETITA PEPAS X 300",
+            "precio": 1512.9114,
+            "modificado": true,
             "factor": "1",
             "unidad_kilo": "U",
             "peso_promedio": 0.0
